@@ -1,0 +1,16 @@
+Wie dick sollten die Wänder sein?
+Filterhalter genauer besprechen?
+Erste Ideen fürs FSSR Spektrometer? Wichtige Parameter?
+Wie genau sollte ich die Angst-Halterung für den Kristall in Inventor einsetzen? Reicht aus, einfach Plätze für die Plastikteile und Diarahm freizuhalten?
+Jetztiges Design von der Box okay?
+
+
+
+Filter holder hole to 12 mm (since chip is small)
+Ausfräsung zu 72 mm innen, 85 mm außen
+Platten mind. 10 mm
+Durchgangslöcher am Top und Bottom, dann Windungen in Wand. Auch bei allen anderen Schraubenlöchern muss das so sein, Durchgang dann Windung. 
+Die Wand in 4 Teile zerlegen, damit einfacher herzustellen ist. Triangle at end of wall. 
+Diarahm in Inventor einsetzen, andere Plastikteile nicht. 
+Need to rebuild walls.ipt
+

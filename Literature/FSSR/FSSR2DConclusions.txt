@@ -1,0 +1,14 @@
+Abstand Quelle/Kristall sollte für uns keine besonders große Rolle spielen, da wir sowieso bei der Wahl des Abstands beschränkt sind. Ich würde sagen,
+wähle einfach mal einen Abstand, der am praktischen ist. Ich habe die Behauptung, dass der Quelle/Kristall Abstand keinen wichtigen Einfluss auf die Auflösung
+hat, zwar nicht ausführlich getestet, aber von allem, was ich gelesen und gesehen habe, würde ich davon ausgehen. Der Grund dafür ist, dass dieser Abstand meistens einen Einfluss
+auf die optische Verstärkung und die Verschlechterung der Auflösung aufgrund der Quellen-Größe hat. Da bei uns die Auflösung nicht optimal sein muss und die Quelle näherungsweise 
+einer Punktquelle entspricht, können wir den Abstand a prinzipiell freiwählen (und natürlich den Abstand Kristall/Detektor entsprechend anpassen).
+
+Es ist aber dabei zu bemerken, je größer der Abstand a, desto breiter das Spektrum. Wir können da ganz schnell entscheiden, ob der im Experiment gewählte Abstand zur gewünschten Bandbreite
+führt. Die Rechnung und Bestätitung durch Simulation habe ich schonmal codiert, also die Bandbreite kann ich in 30 Sekunden ermitteln. Ich glaube, dass wir fast immer eine genügend große Bandbreite
+bekommen können, mit den Abständen, die für uns in Frage kommen. 
+
+Wir können auch den Detektorwinkel spontan beim Experiment wählen. Von meinen Tests siehts so aus, dass etwas in Richtung 10 grad ein besseres Ergebnis ergibt. Ich weiß aber leider nicht warum.
+Die Bedingungen, dass der Detektor tangential auf den RC steht, oder dass die Fokusbedingung in der örtlichen Richtung für möglichst viele Energien erfüllt ist, haben beide keine schöne Ergebnisse 
+geliefert. Ich habe Artem eine Mail geschrieben. Wenn er auch nicht weiß, wie man den Detektorwinkel wählen sollte, würde ich mal sagen, dass wir beim Alignment des FSSRs einfach direkt testen, 
+welcher Winkel eine symmetrische, ungefähr gerade Linie ergibt. 

@@ -1,0 +1,95 @@
+ADP to do:
+
+--Larger opening for higher E
+
+--Plastik für ADP
+
+--Make path for FSSR.
+
+--Vertical gap between windows of filter holder.
+
+--Filterhalterkanal ein bisschen größer
+
+--Extend Ausfräsung for crystal so that there is 1mm Spielraum in all directions. 
+
+--Schlange für Chipraum
+--------------------------------------------------------------------------------
+FSSR to do:
+
+--Fix crystal dimensions
+
+--Add linstage groove
+
+---------------------------------------------------------------------------------
+Brauchen der Pin, Blast Plate Ecke, snout bottom plate Rundungen
+
+Camera m4 schrauben?
+
+Filterhalter m3?
+
+Schraubenlöcher in Camera Plate ok?
+
+
+m6 Schrauben für Postsm
+
+Main Plate korrigieren
+
+------------------------------------------------------------------------------------
+
+
+--Bodenplatte viel Größer, auch Foot plate
+
+--Diarahm Schraublöcher
+
+--dünne Kamera muss drauf, dafür Kameraplatte dicker und Senkung für filterhalter.
+
+Filter schräge Kanten
+
+--------------------------------------------------------------------------------------
+
+M3 Schraube beim Diarahm ok?
+
+Fuß Teile Größe
+
+Chip bei neuer Kamera nicht genau in mitte. Absichtlich?
+
+Filterhalter ohne Senkung? Strahlen sind damit sowieso stärker gebündelt. 
+
+Abstand Plastikhalter Strahl
+
+Kristallsenkung Rundungen mit Plastikteile?
+
+3 M6 genug für Filter holder?
+
+Größste Fräsungsradius? Für Top und Bottom
+
+----------------------------------------------------------------------------------------------
+--Chip mittig
+
+--Plastikhalter kleiner machen
+
+--m6 Schrauben für box. Dafür wand und kristallhalter dicker 12
+
+--m6 schrauben versenkt
+
+--5mm rundungen
+
+--10 für Floor und 12 Foot plate
+
+--64 Filterholder und Crystalholder
+
+--Pointer holder nach hinten, Wänder verkürzen
+
+--Ausfräsung Kristallhalter
+
+--Mit Paul: Strahlengang und PHELIX clearance
+
+Bei Zeichnung: Ausfräsungsradius bei top und bottom kann beliebig groß sein.
+
+--Plastikhalter nach unten bringen, damit auf Bottom liegt.
+
+--Fuss kleiner
+-------------------------------------------------------------------------------------------------
+--Von Pointerholder Seiten was ausfräsen, damit nicht im Strahlengang
+
+--Plastikhalter einfach größer, um Box abzuschirmen.

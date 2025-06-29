@@ -1,0 +1,29 @@
+vertical = saggital = focusing
+horizontal = meridional = dispersive
+rowland circle geometry ensures focusing of both detector and source,
+radius of crystal equal to radius of circle
+
+Mica crystals useful bc can cover a wide range of wavelengths (good reflectivity across a wide range)
+Disadvantage: not a perfect crystal --> lower resolution
+
+Spectral resolution also controlled by sensitivity of detector and the size of the plasma source
+(optimally use a point source. In our case not possible since use a wire or foil as a source)
+
+Advantage of FSSR: obtain simultaneously high spectral and spatial resolution due to focusing 
+from spherical crystal
+
+
+
+
+
+
+
+
+
+
+1. Determine dimensions of spectrometer
+2. Test parameters in mmpxrt
+3. Purchase crystals and parts
+4. Design shielding and box in Inventor
+5. Send CAD file to Werkstatt
+6. Put spectrometer together and test

@@ -1,0 +1,17 @@
+Wie am besten Vertex von Wand abschirmen?
+Schlange zur Lüftung des Filterhalters?
+Alignment von Kristall während Experiment?
+
+
+--------------------------------------------------------------------
+FSSR:
+
+Interpret sample as source? 
+Most likely no significant spatial resolution possible, since source is small and B/G is small.
+In that case may as well use 2D geometry? That would require an adjustable b distance--> more complicated setup. 
+Parts in the inventorlib? If adjustable parts, will need a strong support to hold camera weight. 
+Use set parameters like with ADP spectrometer? But then will need to be able to set the a distance fairly exactly. 
+Since TCC 200mm above the floor anyways, could set camera on bottom with crystal on top --> camera weight less precarious. 
+Honestly I don't know what I don't know, will need guidance. Like can we just buy a lot of the complex parts (Justierunggeräte, angled mounts etc.)
+or will we need to design ourselves? 
+Just better to discuss in person tmr.

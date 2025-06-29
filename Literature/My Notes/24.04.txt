@@ -1,0 +1,7 @@
+Need to write in dispersion calculation of DUCK
+
+Fix FSSR section
+
+do dispersion calculation writing at home, then has the calculation
+
+Write resolution section, then should be done with theory part --> send to Paul

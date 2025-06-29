@@ -1,0 +1,68 @@
+--Cross in pin.
+
+--Make the one side of the pin touch the Einfraesung
+
+--Make into Durchgangsloch (pin screw hole)
+
+--Camera plate to 15mm thickness. Extend it a bit so that snout can just be placed, then screws into the top plate of snout going into camera plate. 
+
+--Take out corner to make room for linstage, then extend blast plate a bit.
+
+--Cut the rotation plate so doesnt touch the linstage.
+
+--For pointer add another hole and attach to front of blast plate. Also ausfraesung.
+
+--Another small piece behind crystal area to align HeNe laser for initial alignment. 
+
+---------------------------------------------------------------------------------------
+ADP
+
+Vertical gap between windows of filter holder.
+
+--Extend wall until rays, then eliminate extra pieces.
+
+--Take away vertex, then insert pointer holder plate. 
+
+--Add T shape with plate to completely separate the two ray paths.
+
+Make path for FSSR.
+
+----------------------------------------------------------------------------------
+Still need to adjust walls of adp to fit hole!
+
+-------------------------------------------------------------------------------
+Blast Plate extended enough?
+
+Durchgangsloch or mit Aufsatz for snout top plate?
+
+Min depth for cross?
+
+-------------------------------------------------------------------
+--Cross weg
+
+--3mm pin length
+
+--Plastikrahmen, der die Schraublöcher für Blast Plate Teile benu
+
+--HeNe Aligner dimension definition falsch. 30mm. L-Ausfräsung zum aligning
+
+--Cross auf Aligner (V-groove).1 mm über den zentralen Ray, da pin 1mm über den Ray
+
+--Crystal Box, circled picture. Ausgefräst, keine 4 Teile. Two screws from above as well.
+
+--Linstage zentrischer bezüglich der Kamera, damit L stage vor dem montage zusammengeschraubt.
+
+--Blast Plate ein bisschen erweitern.
+
+--Filter Vertiefung weg.
+
+--Belüftung für Camera-Chip-Raum
+------------------------------------------------------------------------------------
+ADP
+
+Filterhalterkanal ein bisschen größer
+
+Extend Ausfräsung for crystal so that there is 1mm Spielraum in all directions. 
+
+---------------------------------------------------------------------------
+check with philipp before adding linstage groove

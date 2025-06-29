@@ -1,0 +1,21 @@
+Why first order reflection? Does it give better reflectivity. 
+
+Wahl der Kristalle noch unklar. Wie kann ich das Argument struktuieren?
+
+Spectral magnification in ADP simulation? Ideas?
+
+--------------------------------------------------------------------------------
+
+Paul wegen Intensität fragen
+
+Only need to do FSSR1D dispersion calc in theory section
+
+Write the design considerations next
+
+---------------------------------------------------------------------------------
+
+Timeline: Wednesday, finish theory section
+Thursday, finish design considerations and begin DUCK mechanical design
+Friday, finish mechanical design and read WDM book
+Saturday, write introduction
+Sunday, write outlook

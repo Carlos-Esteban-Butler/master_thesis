@@ -1,0 +1,4 @@
+To do:
+
+Simulation for defocused FSSR of experiment. See if the difference to the ideal case is significant
+

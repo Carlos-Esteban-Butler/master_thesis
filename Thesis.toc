@@ -1,0 +1,58 @@
+\babel@toc {english}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\babel@toc {english}{}\relax 
+\babel@toc {ngerman}{}\relax 
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}%
+\contentsline {chapter}{\numberline {2}X-Ray Absorption Fine-Structure Spectroscopy}{13}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Fundamentals of X-Ray Spectrometers}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Flat Crystal Geometries}{18}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Bent Crystal Geometries}{19}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Von Hamos Geometry}{19}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Focusing Spectrograph with Spatial Resolution}{19}{subsection.3.2.2}%
+\contentsline {section}{\numberline {3.3}Dispersion Calculation}{21}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Flat Crystal Geometry}{22}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Focusing Spectrograph with Spatial Resolution}{23}{subsection.3.3.2}%
+\contentsline {section}{\numberline {3.4}Resolution}{25}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Spectrometer Design}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Design Considerations}{27}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Implemented Spectrometer Schemes}{29}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Dual Unbent Crystal Spectrometer}{30}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Focusing Spectrograph with Spatial Resolution}{31}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Single Unbent Crystal Spectrometer}{32}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Specifications and Comparison}{32}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Experimental Setup}{35}{chapter.5}%
+\contentsline {section}{\numberline {5.1}General Setup}{35}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Mechanical Design of Spectrometers}{37}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Dual Unbent Crystal Spectrometer}{38}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Focusing Spectrograph with Spatial Resolution}{40}{subsection.5.2.2}%
+\contentsline {chapter}{\numberline {6}Data Analysis}{45}{chapter.6}%
+\contentsline {chapter}{\numberline {7}Results and Discussion}{47}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Qualitative Performance}{47}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}X-ray Source Spectra}{48}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}X-ray Absorption Spectra}{51}{subsection.7.1.2}%
+\contentsline {section}{\numberline {7.2}Spectrometer Characterization}{57}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Integrated Reflectivity Ratio}{57}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Spectral Resolution}{60}{subsection.7.2.2}%
+\contentsline {section}{\numberline {7.3}Setup Validation}{67}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}Conversion Efficiency into He-$\upalpha $ Emission Line of Aluminum}{67}{subsection.7.3.1}%
+\contentsline {chapter}{\numberline {8}Summary and Outlook}{71}{chapter.8}%
+\contentsline {chapter}{Bibliography}{75}{chapter*.43}%
+\contentsline {chapter}{Appendices}{79}{section*.44}%
+\contentsline {chapter}{\numberline {I}Crystal Considerations}{79}{appendix.A}%
+\contentsline {chapter}{\numberline {II}Spectrometer Simulations}{81}{appendix.B}%
+\contentsline {section}{\numberline {i}Simple Ray Tracing of the Focusing Spectrograph with Spatial Resolution}{81}{section.B.1}%
+\contentsline {section}{\numberline {ii}Simulation of the Focusing Spectrograph with Spatial Resolution}{83}{section.B.2}%
+\contentsline {section}{\numberline {iii}Simulation of the Dual Unbent Crystal Spectrometer}{85}{section.B.3}%
+\contentsline {section}{\numberline {iv}Summary of Simulation Results}{88}{section.B.4}%
+\contentsline {chapter}{\numberline {III}Alignment Procedure for FSSR-1D}{89}{appendix.C}%
+\contentsline {chapter}{\numberline {IV}Supplementary Results}{93}{appendix.D}%
+\contentsline {section}{\numberline {i}Spectral Resolution}{93}{section.D.1}%
+\contentsline {section}{\numberline {ii}Integrated Reflectivity Ratio}{94}{section.D.2}%
+\contentsline {section}{\numberline {iii}Conversion Efficiency into He-$\upalpha $ Emission Line of Aluminum}{95}{section.D.3}%
+\contentsline {section}{\numberline {iv}Additional Simulations}{96}{section.D.4}%
+\contentsline {chapter}{\numberline {V}Uncertainty Analysis}{99}{appendix.E}%
+\contentsline {section}{\numberline {i}Spectral Resolution}{99}{section.E.1}%
+\contentsline {section}{\numberline {ii}Ratio of Integrated Reflectivities}{100}{section.E.2}%
+\contentsline {section}{\numberline {iii}Conversion Efficiency into He-$\upalpha $ Emission Line of Aluminum}{100}{section.E.3}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

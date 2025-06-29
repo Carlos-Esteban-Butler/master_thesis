@@ -1,0 +1,74 @@
+\chapter{Summary and Outlook}
+\label{chapter: outlook}
+
+In the course of this work, I designed, built, and tested two spectrometers, namely the Dual Unbent Crystal 
+Spectrometer (DUCC) and the Focusing Spectrograph 
+with Spatial Resolution in 1 Dimension (FSSR-1D), with the purpose of conducting XAFS on heavy-ion heated aluminum samples at GSI and FAIR. The 
+DUCC aims to resolve XANES around the Al K-edge and 
+leverages a dual crystal design to simultaneously 
+capture a transmitted and source spectrum on 
+one detector. With its flat crystal design, it emphasizes consistency and simplicity. The FSSR-1D is designed to measure 
+EXAFS and sports a spherically bent crystal, which 
+enables spectral focusing and 1D spatial imaging onto 
+the detector, significantly reducing background and 
+increasing the signal-to-noise ratio (SNR). This spectrometer prioritizes performance, having the potential for excellent spectral resolution relative to its energy range, at the cost of higher complexity and possibly lower consistency. 
+
+The designs were informed 
+by considerations stemming from the unique requirements of the experimental setup and the purpose of the spectrometers, which include: 
+covering the energy ranges relevant to XANES ($\sim$1540-\SI{1585}{\electronvolt}) and 
+EXAFS ($\sim$1560-\SI{1810}{\electronvolt}) respectively, limitations imposed by the WDM 
+sample size ($\leq\SI{1}{\milli\meter}$) due to the uniformity requirements of the 
+heavy-ion heating, goals for the spectral 
+resolution for observing XANES ($\Delta E\leq\SI{1}{\electronvolt}$) and EXAFS ($\Delta E<\SI{10}{\electronvolt}$), achieving 
+sufficient intensity on the detector for a workable SNR, and keeping the 
+physical size ($<\SI{550}{\milli\meter}$) within the confines of the setup. In theory and simulation, both 
+spectrometers fulfill all the considerations, with 
+the DUCC covering an energy range of 
+1541-\SI{1618}{\electronvolt}, having a sample size of 
+\SI{0.75}{\milli\meter}, and exhibiting a spectrometer length of 
+\SI{235.17}{\milli\meter}. The FSSR-1D records in an 
+energy range of 1465-\SI{1755}{\electronvolt}, gives a 
+sample size of \SI{1.07}{\milli\meter}, and has a spectrometer 
+length of \SI{404.30}{\milli\meter}. The energy 
+resolutions were 
+determined using \textit{mmpxrt} simulations, with the exception of the crystal properties' 
+contribution to the DUCC resolution determined analytically, resulting in $\Delta E = 
+\SI{0.703}{\electronvolt}$ for the DUCC 
+and $\Delta E = \SI{3.097}{\electronvolt}$ for 
+the 
+FSSR-1D. The largest contribution to $\Delta E$ originated from the source broadening for 
+the DUCC using a source size of \SI{100}{\micro\meter} and the crystal properties for the FSSR-1D. With the schemes theoretically proven, the spectrometers were mechanically modeled using 
+\textit{Autodesk Inventor 2020} and fabricated. Each spectrometer 
+takes into account the harsh experimental conditions by 
+shielding the sensitive crystals and camera chips, 
+where the chips are further insulated from visible 
+light, and includes necessary parts to fully 
+align the spectrometers in the experimental setup, 
+which must be especially exacting for the FSSR-1D.
+
+In a laser-only experiment using the PHELIX beam conducted in May, 2023, which is part of a series of preparatory experiments for eventual WDM experiments at FAIR, I tested and vetted the DUCC and FSSR, as well as another spectrometer designed by Philipp Hesselbach called the Single Unbent Crystal Spectrometer (SUCC), whose geometry effectively corresponds to a single channel of the DUCC, adjusted to accommodate a KAP crystal instead of ADP, and is intended for capturing wide energy range (1400-\SI{1800}{\electronvolt}) source spectra as a control. The spectral data gathered as TIFF images is processed and analyzed by a \textit{python3} code I developed called \textit{AXAWOTLS}, designed from the ground up to be applicable during future beamtimes using any spectrometer. With this code, I extracted source spectra of every backlighter material, produced x-ray absorption spectra, and calculated the ratio of integrated reflectivity, the spectral resolution, and conversion efficiency of laser energy into the Al He-$\upalpha$ emission line for each spectrometer.
+
+Every spectrometer covers the expected energy range with generally sufficient SNR, assuring that the basic geometries and designs are successful. Additionally, the x-ray source spectra behave as anticipated and yield reasonable photon numbers. In contrast, each spectrometer performs to varying degrees when extracting x-ray absorption spectra. The SUCC/OSUCC combination with a Teflon backlighter delivers absorption curves with excellent agreement with the literature, where the crystal calibration method and the smooth backlighter spectra from Teflon prove to be effective. The DUCC with rare-earth backlighters also performs well, albeit with notable features in the absorption curve due to the lack of a suitable crystal calibration shot and the requirement of rare-earth backlighters, which exhibit structure-rich source spectra. The results, along with the simplified processing, speak for the double channel design, since it enables fairly accurate absorption spectrum extraction even without crystal calibration. The same cannot be said of the SUCC/FSSR combination, which did not produce any reasonable absorption spectra. The spectrometer combination is hindered most significantly by the spectral features around the K-edge due to the mica crystal defects as well as the presence of aluminum in mica's chemical makeup, leading to an Al K-edge even in source spectra. These aspects heavily distort the fine structures around the absorption edge, making the constellation untenable for XAFS applications.
+
+The results for the ratios of integrated reflectivity indicate that the KAP crystals of SUCC and the ADP crystals of the DUCC have comparable $R_{int}$ values, with an averaged experimental DUCC/SUCC ratio of $0.84\pm0.03$, in contrast to the literature value of 0.5. A deviation from the literature is also observed for the FSSR/SUCC ratio with an experimental value of $0.06\pm0.02$ and literature ratio of 0.67. In addition, with the help of ray tracing simulation of the FSSR conducted by Artem Martynenko, an $R_{int}$ of \SI{2.75\pm0.63}{\micro\radian} for the mica crystal was calculated, over a factor of 10 lower than the literature value of \SI{53.6}{\micro\radian} \citep{holzer1998flat} and therefore in better agreement with the experimental FSSR/SUCC ratio. These results highlight the difficulty of estimating crystal properties from the literature, since $R_{int}$ and the rocking curve width $\Delta \theta$ are highly sensitive to individual crystal quality. Accordingly, new \textit{mmpxrt} simulations were conducted for the DUCC and FSSR using adjusted crystal properties, which were estimated considering the experimental $R_{int}$ ratios and the values from Artem's simulation. The adjusted \textit{mmpxrt} simulations confirmed the validity of the original theoretical resolution of the DUCC of \SI{0.703}{\electronvolt}, while the resolution of the FSSR was reduced to \SI{0.563}{\electronvolt}, a consequence of a significantly lower mica rocking curve width. 
+
+The adjusted theoretical resolutions proved to be universally lower than the experimentally determined ones. The crystal broadening contribution to the DUCC's spectral resolution was $\left(1.60^{+0.12}_{-0.11}\right)$ eV, as calculated from a Gaussian fit, and $\left(0.94^{+0.31}_{-0.22}\right)$ eV, as determined by an error function fit, significantly exceeding the theoretical value of \SI{0.24}{\electronvolt}. The increased crystal broadening indicates that the ADP crystals are of lower quality than expected, in terms of a higher $\Delta \theta$. Together with source broadening, the DUCC does not fulfill the resolution requirement for XANES of $\Delta E\leq\SI{1}{\electronvolt}$. In contrast, the FSSR meets the resolution requirement for EXAFS of $\Delta E <\SI{10}{\electronvolt}$ with an experimental resolution of $\left(1.72^{+0.15}_{-0.13}\right)$ eV, lower than the original simulated resolution of \SI{3.01}{\electronvolt} but higher than that of the new simulation, suggesting that the mica crystal has a lower rocking curve width than that of the literature but higher than the idealized crystal of Artem's simulation. Additionally, the SUCC is capable of EXAFS from a resolution standpoint with a resolution of $\left(2.84^{+0.10}_{-0.09}\right)$ eV.
+
+Finally, the conversion efficiency results show good agreement between all spectrometers and fall within a reasonable order of magnitude as compared to literature, i.e. on the order of a few percent. This demonstrates that the experimental setup yields consistent measurements of the source across different spectrometers that qualitatively agree with the literature.
+
+In light of these results, it is clear that: 
+\begin{enumerate}
+	\item Crystal quality plays a crucial role in the extraction of absorption spectra with resolved fine-structure, as crystal broadening significantly impacts spectrometer resolution.
+	\item Smooth backlighter spectra greatly enhance the quality of the absorption spectra, since structure in the source spectra are passed on enough to be significant.
+	\item Identical spectrometer channels for the transmitted and source spectra markedly improve absorption curve quality, even for structure-heavy backlighter spectra.
+	\item The current ADP and mica crystals are unsuitable for this experimental setup, the former due to high crystal broadening effects, and the latter because of the aluminum in its chemical makeup, along with numerous defects.
+\end{enumerate}
+With these findings in mind, I recommend that the next spectrometer, which will be designed for the combined heavy-ion beam/intense laser experiment of 2024, use the double channel layout of the DUCC with KAP crystals, in combination with teflon backlighters. This design leverages the smooth spectrum of teflon with the high x-ray collection of KAP, as well as the advantages offered by the dual channels. Furthermore, the spectral resolution and energy range allows for EXAFS, as shown by the SUCC. The flat crystal design also ensures reliability and ease-of-use, which are essential when considering the high complexity of a combined experiment. Lastly, the individual features of the spectrometer have all already been proven to work, reducing the potential for unforeseen difficulties during a beamtime.
+
+The FSSR has potential, as its resolution and inherent focusing and imaging properties, allowing for high signal-to-noise ratios, would be valuable to conducting absorption spectroscopy in volatile environments. In addition, the crystal broadening and integrated reflectivity results point to good non-local (i.e. ignoring local defects) crystal quality as compared to literature. But the advantages are counter-balanced by the presence of visible crystal damage and, more significant for this application, an inherent Al absorption edge, preventing the extraction of absorption spectra suitable for conducting EXAFS of the Al K-edge. Further research into alternative crystal materials without aluminum and additional testing of novel spectrometer designs, for example a FSSR using two spherically bent crystals, i.e. double channels, could alleviate the drawbacks of the current FSSR and leverage the focusing properties of the geometry. Even so, the time investment required, along with the further complexity introduced by such a design, make this approach difficult to realize in the scope of the currently planned experiments. Consequently, I would not recommend pursuing the FSSR design in the next combined experiments, but consider it for future experiments if resources allow. 
+
+The DUCC geometry with ADP crystals for use with XANES should also be considered for the future, since the spectrometer fell short only in its resolution due to crystal broadening and by extension in the quality of the ADP crystals. New crystals could be ordered and tested to ensure sufficient rocking curve widths for a resolution of below \SI{1}{\electronvolt}, enabling XANES. In general, the results of this thesis highlight the importance of characterizing the crystals of a spectrometer before finalizing a design, as quality can vary significantly between individual crystals, even with shared origins. In fact, the degree to which the crystal quality effects spectrometer performance makes it sensible to stock up on and test extra crystals when possible, guaranteeing replacements in the case of unexpected damage or alterations to the crystal.
+
+In conclusion, the careful design, realization, and detailed analysis of the spectrometers, independent 
+of and in relation to the backlighters, are an important contribution to the optimization of XAFS of 
+heavy-ion heated aluminum using laser-driven plasmas as x-ray sources. The recommended spectrometer design for the 2024 combined experiment and the analysis code \textit{AXAWOTLS} will simplify workflow during beamtimes and enable the extraction of high-resolution, high signal-to-noise ratio absorption spectra for EXAFS of aluminum, helping to pave the way to new WDM physics at GSI and FAIR.

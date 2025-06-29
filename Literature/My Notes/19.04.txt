@@ -1,0 +1,28 @@
+Mach gerne sprachliche Anmerkungen. Mein Englisch ist mittlerweile komisch geworden, also das hilft mir auf jeden Fall. 
+
+Wie heiﬂt Dispersion, wenn es mit E(d) definiert wird?
+Paul fragen.
+
+Wann zitieren, wann nicht? z.B. bei Bending of crystals.
+
+Hast du eine Idee, wie ich die Winkeln in Fig 1.1 besser darstellen kann?
+
+FSSR 1D?
+------------------------------------------------------------------------
+
+Think about making a separate section for resolution. Reference is philipps note (page 7)
+Do properly
+
+--Fix fig 1.1 d definition
+
+--Stopped at FSSR section 19.04
+
+--Mark sentence with bending for search of sources
+
+Idea about imaging of alu foil for FSSR, since atm there shouldn't be a resolvable image
+
+--Calculation of FSSR dispersion. Need to call it something else, since dispersion for d(E)
+
+--Rewrite FSSR section, taking into account the two situations. One is spectral focusing due to rowland circle geometry. Other is imaging according to 
+standard imaging function a la mica 1D paper. 
+

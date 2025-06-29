@@ -1,0 +1,7 @@
+Detector angle pointing towards source. Can do in Inventor fairly easily
+
+There will always be significantly more rays hitting below (higher E) than above (lower E) on detector due to asymmetry. 
+Just shift detector so that as many rays hit as possible and adjust the central energy so that stay within desired E
+range despite asymmetry. 
+
+How much to shift the detector by can be decided by code. It refers to the shift in distance along x axis. 

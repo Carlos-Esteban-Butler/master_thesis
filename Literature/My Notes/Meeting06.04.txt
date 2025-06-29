@@ -1,0 +1,23 @@
+1. Look at simulation results.
+2. Briefly review outline.
+3. Build very general outline together for proposal.
+
+---------------------------------------------
+
+Include KAP? To what degree?
+Kein KAP im Proposal, erst dann in der Masterarbeit, weil Spektren
+
+Use a smaller section to generally go over basics of our design. For example. With ADP describe the rationale behind tilt and two channels, along with
+two holes in filter holder.
+
+--------------------------------------------------------
+
+Write Theory part first, since then can just start writing. Introduction probs at the end
+
+Read paper where got mica data more carefully. Can push until later, is qualitative anyways
+
+Interesting graph in challenges of xray spectroscopy paper
+
+Maybe need to calculate how much y dist on crystal actually lands on detector. Seems to be effecting the resolution with the ADP
+
+Dispersion calc for FSSR nicely lines up with simulation

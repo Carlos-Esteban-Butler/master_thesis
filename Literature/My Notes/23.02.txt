@@ -1,0 +1,6 @@
+Do paper thing on saturday
+
+talk to vincent on friday
+
+Still need to take into account chip length now that detector angle is decided. After that will have max and min angle and can start on Inventor. Maybe can actually start on inventor right away
+since can just map the lines to the edges of the chip. 

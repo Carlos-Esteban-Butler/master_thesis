@@ -1,0 +1,19 @@
+write paul and artem to discuss about the R_int of FSSR. Possible problems with crystal?
+
+calculate per hand to see if anything is obviously wrong
+
+error from transmission of filters
+
+generally think about possible fehler estimations
+
+Write initialization into offset dict.
+
+
+
+
+
+Find average filter transmission
+
+CE could be reasonable, not known publications for he alpha of Al
+
+Do absorption spectrum of two FSSR 74 and 75

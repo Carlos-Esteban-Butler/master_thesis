@@ -1,0 +1,174 @@
+%\documentclass[
+%english,
+%ruledheaders=section,
+%twoside,
+%book,
+%class=report,
+%thesis={type=pp},
+%accentcolor=2c,% Auswahl der Akzentfarbe
+%custommargins=false,
+%marginpar=false,
+%BCOR=5mm,%Bindekorrektur, falls notwendig
+%parskip=half-,%Absatzkennzeichnung durch Abstand vgl. KOMA-Sript
+%fontsize=11pt,
+%%	logofile=example-image, %Falls die Logo Dateien nicht vorliegen
+%]{tudapub}
+\documentclass[
+	ngerman,
+	ruledheaders=section,%Ebene bis zu der die Überschriften mit Linien abgetrennt werden, vgl. DEMO-TUDaPub
+	twoside,
+	book,
+	class=report,% Basisdokumentenklasse. Wählt die Korrespondierende KOMA-Script Klasse
+	thesis={type=Master thesis},% Dokumententyp Thesis, für Dissertationen siehe die Demo-Datei DEMO-TUDaPhd
+	accentcolor=9c,% Auswahl der Akzentfarbe
+	custommargins=false,% Ränder werden mithilfe von typearea automatisch berechnet
+	marginpar=false,% Kopfzeile und Fußzeile erstrecken sich nicht über die Randnotizspalte
+	BCOR=5mm,%Bindekorrektur, falls notwendig
+	parskip=half-,%Absatzkennzeichnung durch Abstand vgl. KOMA-Sript
+	fontsize=11pt,%Basisschriftgröße laut Corporate Design ist mit 9pt häufig zu klein
+%	logofile=example-image, %Falls die Logo Dateien nicht vorliegen
+]{tudapub}
+
+
+% Der folgende Block ist nur bei pdfTeX auf Versionen vor April 2018 notwendig
+\usepackage{iftex}
+\ifPDFTeX
+	\usepackage[utf8]{inputenc}%kompatibilität mit TeX Versionen vor April 2018
+\fi
+
+%%%%%%%%%%%%%%%%%%%
+%Sprachanpassung & Verbesserte Trennregeln
+%%%%%%%%%%%%%%%%%%%
+\usepackage[ngerman, main=english]{babel}
+\usepackage[autostyle]{csquotes}% Anführungszeichen vereinfacht
+
+% Falls mit pdflatex kompiliert wird, wird microtype automatisch geladen, in diesem Fall muss diese Zeile entfernt werden, und falls weiter Optionen hinzugefügt werden sollen, muss dies über
+% \PassOptionsToPackage{Optionen}{microtype}
+% vor \documentclass hinzugefügt werden.
+\usepackage{microtype}
+\usepackage{siunitx}
+\sisetup{
+	output-product=\ensuremath{{\cdot}},
+	exponent-product=\ensuremath{\cdot},
+	separate-uncertainty = true,
+}
+%\sisetup{math-micro=\text{µ},text-micro=µ}
+\DeclareSIUnit[]\PSL{PSL}
+\DeclareSIUnit[]\px{px}
+\usepackage{arydshln}
+\usepackage{subcaption}
+\usepackage{graphicx}
+%%%%%%%%%%%%%%%%%%%
+%Literaturverzeichnis
+%%%%%%%%%%%%%%%%%%%
+%\usepackage[style=numeric-comp, sorting = none, backend = bibtex]{biblatex}   % Literaturverzeichnis
+
+
+%%%%%%%%%%%%%%%%%%%
+%Paketvorschläge Tabellen
+%%%%%%%%%%%%%%%%%%%
+%\usepackage{array}     % Basispaket für Tabellenkonfiguration, wird von den folgenden automatisch geladen
+\usepackage{tabularx}   % Tabellen, die sich automatisch der Breite anpassen
+%\usepackage{hhline}
+%\usepackage{longtable} % Mehrseitige Tabellen
+%\usepackage{xltabular} % Mehrseitige Tabellen mit anpassarer Breite
+\usepackage{booktabs}   % Verbesserte Möglichkeiten für Tabellenlayout über horizontale Linien
+
+%%%%%%%%%%%%%%%%%%%
+%Paketvorschläge Mathematik
+%%%%%%%%%%%%%%%%%%%
+\usepackage{mathtools} % erweiterte Fassung von amsmath
+\usepackage{amssymb}   % erweiterter Zeichensatz
+%\usepackage{siunitx}   % Einheiten
+
+%Formatierungen für Beispiele in diesem Dokument. Im Allgemeinen nicht notwendig!
+\let\file\texttt
+\let\code\texttt
+\let\tbs\textbackslash
+
+
+\usepackage{pifont}% Zapf-Dingbats Symbole
+\newcommand*{\FeatureTrue}{\ding{52}}
+\newcommand*{\FeatureFalse}{\ding{56}}
+
+\usepackage{afterpage}
+
+\newcommand\blankpage{
+	\null
+	\thispagestyle{empty}
+	%\addtocounter{page}{-1}
+	\newpage
+}
+\usepackage[numbers,sort&compress,square]{natbib}
+
+\usepackage{float}
+\usepackage{placeins}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage[toc,page]{appendix}
+\usepackage{cancel}
+\usepackage{hyperref}
+\def\UrlBreaks{\do\/\do-}
+\usepackage{breakurl}
+
+\newcommand\numberthis{\addtocounter{equation}{1}\tag{\theequation}}
+\newcommand{\RN}[1]{%
+	\textup{\uppercase\expandafter{\romannumeral#1}}%
+}
+\newcommand{\subtag}[1]{\tag{\theparentequation#1}}
+
+
+\begin{document}
+
+\Metadata{
+	title=Optimizing X-Ray Production with Nanosecond Laser Pulses by Two-Plasmon Decay
+}
+
+\title{Optimizing X-Ray Production with Nanosecond Laser Pulses by Two-Plasmon Decay}
+\subtitle{Optimierung der Röntgenerzeugung mit Nanosekunden-Laserpulsen durch Two-Plasmon Decay}
+\author[P. Hesselbach]{Philipp Mathias Hesselbach}%optionales Argument ist die Signatur,
+\birthplace{Aschaffenburg}%Geburtsort, bei Dissertationen zwingend notwendig
+\reviewer{Priv. Doz. Dr. Vincent Bagnoud \and Priv. Doz. Dr. Paul Neumayer}%Gutachter
+
+%Diese Felder werden untereinander auf der Titelseite platziert.
+%\department ist eine notwendige Angabe, siehe auch dem Abschnitt `Abweichung von den Vorgaben für die Titelseite'
+\department{phys} % Das Kürzel wird automatisch ersetzt und als Studienfach gewählt, siehe Liste der Kürzel im Dokument.
+\institute{Institute of Nuclear Physics}
+\group{Working Group Bagnoud}
+
+\submissiondate{\today}
+\examdate{\today}
+
+%	\tuprints{urn=1234,printid=12345,doi=10.25534/tuprints-1234}
+%	\dedication{Für alle, die \TeX{} nutzen.}
+
+\maketitle
+
+\affidavit% oder \affidavit[digital] falls eine rein digitale Abgabe vorgesehen ist.
+\mbox{} \thispagestyle{empty}
+\tableofcontents
+
+
+\include{ChapIntroduction}
+\include{ChapXrayDiffraction}
+\include{ChapIncreasingNumbersOfPhotons}
+\include{ChapTPD2}
+\include{ChapExperimentalSetup}
+\include{ChapEvaluation2}
+\include{ChapResults2}
+\include{ChapConclusion}
+
+\newpage
+\appendix
+\addappheadtotoc
+
+\input{ChapIntensityCalc}
+\input{ChapLinesMo}
+
+%\printbibliography
+%\newpage
+%\mbox{} \thispagestyle{empty}
+
+\bibliographystyle{custom7}
+\urlstyle{rm}
+\bibliography{DEMO-TUDaBibliography}
+\end{document}

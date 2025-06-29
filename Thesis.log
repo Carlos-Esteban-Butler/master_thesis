@@ -1,0 +1,2680 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.11.20)  17 JUL 2024 18:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Thesis.tex
+(Thesis.tex
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/tuda-ci\tudapub.cls
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-11-09 L3 programming layer (loader) 
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count186
+\l__pdf_internal_box=\box51
+))
+Document Class: tudapub 2023/07/12 v3.34 Publications using TU Darmstadt's Corp
+orate Design (TUDa-CI)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3
+keys2e.sty
+Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/urcls\URspecialopts.st
+y
+Package: URspecialopts 2019/01/22 v2.1 Implementation of keyval-options accepti
+ng multiple values as grouped clists
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpar
+se.sty
+Package: xparse 2023-10-10 L3 Experimental document command parser
+))
+\g_ptxcd_ruledheaders_int=\count187
+\g_ptxcd_paper_int=\count188
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbook.cl
+s
+Document Class: scrbook 2023/07/07 v3.41 KOMA-Script document class (book)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.s
+ty
+Package: scrkbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.st
+y
+Package: scrbase 2023/07/07 v3.41 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.s
+ty
+Package: scrlfile 2023/07/07 v3.41 KOMA-Script package (file load hooks)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-h
+ook.sty
+Package: scrlfile-hook 2023/07/07 v3.41 KOMA-Script package (using LaTeX hooks)
+
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.st
+y
+Package: scrlogo 2023/07/07 v3.41 KOMA-Script package (logo)
+)))
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+Applying: [2021/05/01] Usage of raw or classic option list on input line 252.
+Already applied: [0000/00/00] Usage of raw or classic option list on input line
+ 368.
+))
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.s
+ty
+Package: tocbasic 2023/07/07 v3.41 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip48
+\scr@dte@tocline@numbox=\box52
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 135.
+Class scrbook Info: File `scrsize11pt.clo' used to setup font sizes on input li
+ne 2691.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize11p
+t.clo
+File: scrsize11pt.clo 2023/07/07 v3.41 KOMA-Script font size class option (11pt
+)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.s
+ty
+Package: typearea 2023/07/07 v3.41 KOMA-Script package (type area)
+\ta@bcor=\skip49
+\ta@div=\count189
+\ta@hblk=\skip50
+\ta@vblk=\skip51
+\ta@temp=\skip52
+\footheight=\skip53
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 408.2971pt
+(typearea)              DIV departure   = -3%
+(typearea)              \evensidemargin = 44.38632pt
+(typearea)              \oddsidemargin  = 0.28453pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1799.
+)
+\c@part=\count190
+\c@chapter=\count191
+\c@section=\count192
+\c@subsection=\count193
+\c@subsubsection=\count194
+\c@paragraph=\count195
+\c@subparagraph=\count196
+\scr@dte@chapter@maxnumwidth=\skip54
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\chapter on input line 5990.
+\scr@dte@section@maxnumwidth=\skip55
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\section on input line 6001.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\section on input line 6001.
+\scr@dte@part@maxnumwidth=\skip56
+Class scrbook Info: using compatibility default `afterindent=true'
+(scrbook)           for `\part on input line 6010.
+\scr@dte@subsection@maxnumwidth=\skip57
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsection on input line 6020.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsection on input line 6020.
+\scr@dte@subsubsection@maxnumwidth=\skip58
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subsubsection on input line 6030.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subsubsection on input line 6030.
+\scr@dte@paragraph@maxnumwidth=\skip59
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\paragraph on input line 6041.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\paragraph on input line 6041.
+\scr@dte@subparagraph@maxnumwidth=\skip60
+Class scrbook Info: using compatibility default `runin=bysign'
+(scrbook)           for `\subparagraph on input line 6051.
+Class scrbook Info: using compatibility default `afterindent=bysign'
+(scrbook)           for `\subparagraph on input line 6051.
+\abovecaptionskip=\skip61
+\belowcaptionskip=\skip62
+\c@pti@nb@sid@b@x=\box53
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 7242.
+\scr@dte@figure@maxnumwidth=\skip63
+\c@figure=\count197
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 7259.
+\scr@dte@table@maxnumwidth=\skip64
+\c@table=\count198
+Class scrbook Info: Redefining `\numberline' on input line 7430.
+\bibindent=\dimen140
+)
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 408.2971pt
+(typearea)              DIV departure   = -3%
+(typearea)              \evensidemargin = 44.38632pt
+(typearea)              \oddsidemargin  = 0.28453pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 238.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/tuda-ci\tudarules.sty
+Package: tudarules 2023/07/12 v3.34 Creation of colored bars for tuda-ci bundle
+
+\g_ptxcd_titlerule_dim=\dimen141
+\c_ptxcd_largerule_dim=\dimen142
+\c_ptxcd_rulesep_dim=\dimen143
+\c_ptxcd_smallrule_dim=\dimen144
+\c_ptxcd_logoheight_dim=\dimen145
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/tuda-ci\tudacolors.sty
+Package: tudacolors 2023/07/12 v3.34 Color definition for TU Darmstadt's tuda-c
+i bundle
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/tuda-ci\tudacolors.def
+File: tudacolors.def 2023/07/12 3.34 Color definitions for tuda-ci
+))
+\l_ptxcd_headrule_width_dim=\dimen146
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/tuda-ci\tudafonts.sty
+Package: tudafonts 2023/07/12 3.34 font loading for TUDa-CI, TU Darmstadt's Cor
+porate Design
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/anyfontsize\anyfontsiz
+e.sty
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+)
+   defining Unicode char U+20AC (decimal 8364)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\XCharter.sty
+Package: XCharter 2023/07/21 v1.25
+
+`XCharter' v1.25, 2023/07/21 Text macros for XCharter, an extension of Charter 
+(msharpe)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count199
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count266
+) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/xstring\xstring.sty
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/xstring\xstring.tex
+\xs_counta=\count267
+\xs_countb=\count268
+)
+Package: xstring 2023/08/22 v1.86 String manipulations (CT)
+) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+LaTeX Font Info:    Setting XCharter-LF sub-encoding to TS1/0 on input line 37.
+
+LaTeX Font Info:    Changing XCharter-TLF sub-encoding to TS1/0 on input line 3
+7.
+LaTeX Font Info:    Setting XCharter-OsF sub-encoding to TS1/0 on input line 37
+.
+LaTeX Font Info:    Changing XCharter-TOsF sub-encoding to TS1/0 on input line 
+37.
+\xch@cnt=\count269
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fontaxes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \textsu on input line 737.
+LaTeX Info: Redefining \textde on input line 740.
+LaTeX Info: Redefining \textinf on input line 742.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.st
+y
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+\MT@toks=\toks20
+\MT@tempbox=\box54
+\MT@count=\count270
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks21
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen147
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count271
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pd
+ftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip65
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cf
+g
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+)) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/roboto\roboto.sty
+Package: roboto 2022/09/10 (Bob Tennent) Supports Roboto fonts for all LaTeX en
+gines.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+XCharter-TLF on inpu
+t line 112.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\t1xcharter-tl
+f.fd
+File: T1XCharter-TLF.fd 2017/06/25 (autoinst) Font definitions for T1/XCharter-
+TLF.
+)
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 112.
+))
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/roboto\roboto-mono.sty
+Package: roboto-mono 2022/09/10 (Bob Tennent) Supports RobotoMono fonts for all
+ LaTeX engines.
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+))
+LaTeX Info: Redefining \LaTeX on input line 89.
+)
+\g_ptxcd_marginpar_dim=\dimen148
+\g_ptxcd_innerMargin_dim=\dimen149
+\g_ptxcd_outerMargin_dim=\dimen150
+\g_ptxcd_bottomMargin_dim=\dimen151
+\g_ptxcd_topMargin_dim=\dimen152
+\g_ptxcd_columnSep_dim=\dimen153
+\g_ptxcd_headheight_dim=\dimen154
+\g_ptxcd_headwidth_dim=\dimen155
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-s
+crpage.sty
+Package: scrlayer-scrpage 2023/07/07 v3.41 KOMA-Script package (end user interf
+ace for scrlayer)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.s
+ty
+Package: scrlayer 2023/07/07 v3.41 KOMA-Script package (defining layers and pag
+e styles)
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 218
+3.
+)
+Package scrlayer-scrpage Info: Makeing stand-alone element `pagehead' from
+(scrlayer-scrpage)             alias to `pageheadfoot' on input line 1106.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen156
+\Gm@wd@mp=\dimen157
+\Gm@odd@mp=\dimen158
+\Gm@even@mp=\dimen159
+\Gm@layoutwidth=\dimen160
+\Gm@layoutheight=\dimen161
+\Gm@layouthoffset=\dimen162
+\Gm@layoutvoffset=\dimen163
+\Gm@dimlist=\toks22
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
+)
+\l__ptxcd_titlegraphic_box=\box55
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+)
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.
+sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box56
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+\tc@llx=\dimen166
+\tc@lly=\dimen167
+\tc@urx=\dimen168
+\tc@ury=\dimen169
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.de
+f
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\g_ptxcd_title_box=\box57
+\g_ptxcd_title_fill_skip=\skip66
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/tuda-ci\tuda-a4paper.c
+lo
+File: tuda-a4paper.clo 2023/07/12 v3.34 tuda-ci size adjustments for a4paper
+)
+\g_ptxcd_title_info_box=\box58
+\ptxcd_title_headline_box=\box59
+ (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\pdfx.sty
+Package: pdfx 2019/02/27 v1.6.3 PDF/X and PDF/A support (CVR/HTH/RRM/PS)
+\pdfx@minorversion=\count275
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/everyshi\everyshi.sty
+Package: everyshi 2020/11/18 v4.00 EveryShipout Package
+){C:/Users/Carlos/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks23
+\inpenc@posthook=\toks24
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\l8u-penc.def
+File: l8u-penc.def 2017/06/23 v0.8 Custom LaTeX file, for UTF8 encoded letters 
+and symbols
+LaTeX Info: Composite with undeclared \b in encoding L8U on input line 278.
+)
+\pdfxsafeforxmp@toks=\toks25
+\pdfx@tmptoks=\toks26
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-11-09 v7.01f Hypertext links for LaTeX
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
+s.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
+sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.st
+y
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
+ekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.
+sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacr
+o.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-09 v2.55 Cross-referencing by name of section
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\getti
+tlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
+y
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count276
+)
+\@linkdim=\dimen170
+\Hy@linkcounter=\count277
+\Hy@pagecounter=\count278
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-11-09 v7.01f Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count279
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-11-09 v7.01f Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `pdfa' set `true' on input line 4054.
+Package hyperref Info: Hyper figures OFF on input line 4171.
+Package hyperref Info: Link nesting OFF on input line 4176.
+Package hyperref Info: Hyper index ON on input line 4179.
+Package hyperref Info: Plain pages OFF on input line 4186.
+Package hyperref Info: Backreferencing OFF on input line 4191.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4438.
+\c@Hy@tempcnt=\count280
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4776.
+\XeTeXLinkMargin=\dimen171
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcal
+c.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count281
+\Field@Width=\dimen172
+\Fld@charsize=\dimen173
+Package hyperref Info: Hyper figures OFF on input line 6055.
+Package hyperref Info: Link nesting OFF on input line 6060.
+Package hyperref Info: Hyper index ON on input line 6063.
+Package hyperref Info: backreferencing OFF on input line 6070.
+Package hyperref Info: Link coloring OFF on input line 6075.
+Package hyperref Info: Link coloring with OCG OFF on input line 6080.
+Package hyperref Info: PDF/A mode ON on input line 6083.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count282
+\c@Item=\count283
+\c@Hfootnote=\count284
+)
+Package hyperref Info: Driver: hpdftex.
+ (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2023-11-09 v7.01f Hyperref driver for pdfTeX
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count285
+\c@bookmark@seq@number=\count286
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfi
+lecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\unique
+counter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip67
+)
+Package hyperref Info: Option `unicode' set `true' on input line 1463.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.
+sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+Package hyperref Info: Option `psdextra' set `true' on input line 1465.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\psdextra.def
+File: psdextra.def 2023-11-09 v7.01f Hyperref: Additions to PDF string support
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/colorprofiles\colorp
+rofiles.sty
+Package: colorprofiles 2018/11/01 v1.0.1 color profiles for PDF/X and PDF/A sup
+port
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/colorprofiles\colorp
+rofiles.tex))
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-pdfdoc.
+def
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\AdobeColorProfile
+s.tex) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\8bit.def
+File: 8bit.def 2008/03/30 v1.1d Input encoding file
+)
+** pdfx: Metadata file Thesis.xmpdata read successfully.
+(Thesis.xmpdata)<<sRGB.icc>>
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\8bit.def
+File: 8bit.def 2008/03/30 v1.1d Input encoding file
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\8bit.def
+File: 8bit.def 2008/03/30 v1.1d Input encoding file
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-utf8.de
+f
+File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
+)
+Package hyperref Info: Option `unicode' set `true' on input line 2411.
+Package hyperref Info: Option `unicode' set `true' on input line 2412.
+ (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\8bit.def
+File: 8bit.def 2008/03/30 v1.1d Input encoding file
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/pdftex\glyphtounicod
+e.tex)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\glyphtounicode-cm
+r.tex)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\glyphtounicode-nt
+x.tex)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/xmpincl\xmpincl.sty
+Package: xmpincl 2021/09/22 v2.4 Include XMP data in pdflatex
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/pdfx\8bit.def
+File: 8bit.def 2008/03/30 v1.1d Input encoding file
+)
+Using XMP template file: pdfa.xmp
+\xmpinclWrite=\write3
+\xmpinclRead=\read2
+\openout3 = `pdfa.xmpi'.
+
+<<pdfa.xmpi>>)
+
+Package tudapub Warning: You use pdfa-mode in PDFTeX.
+(tudapub)                This can lead to incompatiblities especially with
+(tudapub)                older compiler versions.
+(tudapub)                You should prefer using lualatex.
+
+Package hyperref Info: Option `unicode' set `true' on input line 876.
+\g_ptxcd_sponsor_box=\box60
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/tuda-ci\tudathesis.cfg
+File: tudathesis.cfg 2023/07/12 v3.34 SpecialFeaturesforpublicationtype'thesis'
+usingTUDarmstadt'sCorporateDesign(tuda-ci)
+\g_ptxcd_thesis_institution_box=\box61
+)
+\g_ptxcd_PaperID_box=\box62
+) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/11/11 v3.97 The Babel package
+\babel@savecnt=\count287
+\U@D=\dimen174
+\l@unhyphenated=\language79
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count288
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.l
+df
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.
+ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+))
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.
+ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+))
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/en\babe
+l-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/de\babe
+l-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/base\latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/base\exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen175
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip68
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks27
+\ex@=\dimen176
+))
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen177
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count289
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count290
+\leftroot@=\count291
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count292
+\DOTSCASE@=\count293
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box63
+\strutbox@=\box64
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen178
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count294
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count295
+\dotsspace@=\muskip17
+\c@parentequation=\count296
+\dspbrk@lvl=\count297
+\tag@help=\toks28
+\row@=\count298
+\column@=\count299
+\maxfields@=\count300
+\andhelp@=\toks29
+\eqnshift@=\dimen179
+\alignsep@=\dimen180
+\tagshift@=\dimen181
+\tagwidth@=\dimen182
+\totwidth@=\dimen183
+\lineht@=\dimen184
+\@envbody=\toks30
+\multlinegap=\skip69
+\multlinetaggap=\skip70
+\mathdisplay@stack=\toks31
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip71
+\bibsep=\skip72
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count301
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2023-11-14 v3.3.9 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count302
+\l__siunitx_number_exponent_fixed_int=\count303
+\l__siunitx_number_min_decimal_int=\count304
+\l__siunitx_number_min_integer_int=\count305
+\l__siunitx_number_round_precision_int=\count306
+\l__siunitx_number_lower_threshold_int=\count307
+\l__siunitx_number_upper_threshold_int=\count308
+\l__siunitx_number_group_first_int=\count309
+\l__siunitx_number_group_size_int=\count310
+\l__siunitx_number_group_minimum_int=\count311
+\l__siunitx_angle_tmp_dim=\dimen185
+\l__siunitx_angle_marker_box=\box65
+\l__siunitx_angle_unit_box=\box66
+\l__siunitx_compound_count_int=\count312
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/translations\translati
+ons.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+\l__siunitx_table_tmp_box=\box67
+\l__siunitx_table_tmp_dim=\dimen186
+\l__siunitx_table_column_width_dim=\dimen187
+\l__siunitx_table_integer_box=\box68
+\l__siunitx_table_decimal_box=\box69
+\l__siunitx_table_uncert_box=\box70
+\l__siunitx_table_before_box=\box71
+\l__siunitx_table_after_box=\box72
+\l__siunitx_table_before_dim=\dimen188
+\l__siunitx_table_carry_dim=\dimen189
+\l__siunitx_unit_tmp_int=\count313
+\l__siunitx_unit_position_int=\count314
+\l__siunitx_unit_total_int=\count315
+
+Package siunitx Info: Option "separate-uncertainty" has been deprecated in
+(siunitx)             this release.
+(siunitx)             
+(siunitx)             Use "uncertainty-mode = separate" as a replacement.
+
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen190
+\ar@mcellbox=\box73
+\extrarowheight=\dimen191
+\NC@list=\toks32
+\extratabsurround=\skip73
+\backup@length=\skip74
+\ar@cellbox=\box74
+))
+
+Package siunitx Info: Option "range-units = brackets" has been deprecated in
+(siunitx)             this release.
+(siunitx)             
+(siunitx)             Use "range-units = bracket" as a replacement.
+
+
+Package siunitx Info: Option "list-units = brackets" has been deprecated in
+(siunitx)             this release.
+(siunitx)             
+(siunitx)             Use "list-units = bracket" as a replacement.
+
+
+Package siunitx Info: Option "detect-all" has been deprecated in this release.
+(siunitx)             
+(siunitx)             Use "mode = match, propagate-math-font = true,
+(siunitx)             reset-math-version = false, reset-text-family = false,
+(siunitx)             reset-text-series = false, reset-text-shape = false,
+(siunitx)             text-family-to-math = true, text-series-to-math = true"
+(siunitx)             as a replacement.
+
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
+) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count316
+\float@exts=\toks33
+\float@box=\box75
+\@float@everytoks=\toks34
+\@floatcapt=\box76
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen192
+\WF@size=\dimen193
+\c@WF@wrappedlines=\count317
+\WF@box=\box77
+\WF@everypar=\toks35
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen194
+\captionmargin=\dimen195
+\caption@leftmargin=\dimen196
+\caption@rightmargin=\dimen197
+\caption@width=\dimen198
+\caption@indent=\dimen199
+\caption@parindent=\dimen256
+\caption@hangindent=\dimen257
+Package caption Info: KOMA-Script document class detected.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-koma.s
+to
+File: caption-koma.sto 2023/09/08 v2.0e Adaption of the caption package to the 
+KOMA-Script document classes (AR)
+))
+\c@caption@flags=\count318
+\c@continuedfloat=\count319
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: KOMA-Script scrextend package detected.
+\caption@addmargin@hsize=\dimen258
+\caption@addmargin@linewidth=\dimen259
+Package caption Info: wrapfig package is loaded.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count320
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count321
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.st
+y
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+\adjbox@Width=\dimen260
+\adjbox@Height=\dimen261
+\adjbox@Depth=\dimen262
+\adjbox@Totalheight=\dimen263
+\adjbox@pwidth=\dimen264
+\adjbox@pheight=\dimen265
+\adjbox@pdepth=\dimen266
+\adjbox@ptotalheight=\dimen267
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.st
+y
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count322
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box78
+\sift@deathcycles=\count323
+\@vwid@loff=\dimen268
+\@vwid@roff=\dimen269
+)) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/shipunov\boldline.st
+y
+Package: boldline 2008/02/04 v0.2 Adjust line width in tables
+
+Package array Warning: Column V is already defined on input line 9.
+
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/appendix\appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count324
+\c@@ppsavesec=\count325
+\c@@ppsaveapp=\count326
+) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/was\upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+)
+
+Class scrbook Warning: Usage of package `tocbibind' together
+(scrbook)              with a KOMA-Script class is not recommended.
+(scrbook)              I'd suggest to use options like `listof=totoc'
+(scrbook)              or `bibliography=totoc', or commands like
+(scrbook)              `\setuptoc{toc}{totoc}' instead of this package,
+(scrbook)              because it breaks several KOMA-Script features of
+(scrbook)              the list of figures, list of tables, bibliography,
+(scrbook)              index and the running head.
+(scrbook)              Nevertheless, using requested
+(scrbook)              package `tocbibind' on input line 79.
+
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocbibind.st
+y
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen270
+\TX@old@table=\dimen271
+\TX@old@col=\dimen272
+\TX@target=\dimen273
+\TX@delta=\dimen274
+\TX@cols=\count327
+\TX@ftn=\toks36
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen275
+\lightrulewidth=\dimen276
+\cmidrulewidth=\dimen277
+\belowrulesep=\dimen278
+\belowbottomsep=\dimen279
+\aboverulesep=\dimen280
+\abovetopsep=\dimen281
+\cmidrulesep=\dimen282
+\cmidrulekern=\dimen283
+\defaultaddspace=\dimen284
+\@cmidla=\count328
+\@cmidlb=\count329
+\@aboverulesep=\dimen285
+\@belowrulesep=\dimen286
+\@thisruleclass=\count330
+\@lastruleclass=\count331
+\@thisrulewidth=\dimen287
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.st
+y
+Package: mathtools 2022/06/29 v1.29 mathematical typesetting tools
+ (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count332
+\calc@Bcount=\count333
+\calc@Adimen=\dimen288
+\calc@Bdimen=\dimen289
+\calc@Askip=\skip75
+\calc@Bskip=\skip76
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count334
+\calc@Cskip=\skip77
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
+)
+\g_MT_multlinerow_int=\count335
+\l_MT_multwidth_dim=\dimen290
+\origjot=\skip78
+\l_MT_shortvdotswithinadjustabove_dim=\dimen291
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen292
+\l_MT_above_intertext_sep=\dimen293
+\l_MT_below_intertext_sep=\dimen294
+\l_MT_above_shortintertext_sep=\dimen295
+\l_MT_below_shortintertext_sep=\dimen296
+\xmathstrut@box=\box79
+\xmathstrut@dim=\dimen297
+) (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 44.
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
+Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
+\rotheadsize=\dimen298
+\c@nlinenum=\count336
+\TeXr@lab=\toks37
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/stackengine\stackengin
+e.sty
+Package: stackengine 2021/07/22 v4.11\ Stacking text and objects in convenient 
+ways
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/listofitems\listofitem
+s.sty
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/generic/listofitems\listofit
+ems.tex
+\loi_cnt_foreach_nest=\count337
+\loi_nestcnt=\count338
+)
+Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified 
+sep char (CT)
+)
+\c@@stackindex=\count339
+\@boxshift=\skip79
+\stack@tmplength=\skip80
+\temp@stkl=\skip81
+\@stackedboxwidth=\skip82
+\@addedbox=\box80
+\@anchorbox=\box81
+\@insetbox=\box82
+\se@backgroundbox=\box83
+\stackedbox=\box84
+\@centerbox=\box85
+\c@ROWcellindex@=\count340
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\pifont.sty
+Package: pifont 2020/03/25 PSNFSS-v9.3 Pi font support (SPQR) 
+LaTeX Font Info:    Trying to load font information for U+pzd on input line 63.
+
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upzd.fd
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Trying to load font information for U+psy on input line 64.
+
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\upsy.fd
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+LaTeX Info: Redefining \oldstylenums on input line 128.
+
+(Thesis.aux (Chapters/Acknowledgments.aux) (Chapters/Introduction.aux)
+(Chapters/XAFS.aux) (Chapters/Theory.aux) (Chapters/DesignConsiderations.aux)
+(Chapters/ExperimentalSetup.aux) (Chapters/DataAnalysis.aux)
+(Chapters/ResultsAndDiscussion.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+) (Chapters/Outlook.aux) (Chapters/Appendix.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+
+LaTeX Warning: Label `sub@' multiply defined.
+
+
+LaTeX Warning: Label `' multiply defined.
+
+))
+\openout1 = `Thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 128.
+LaTeX Font Info:    ... okay on input line 128.
+Package scrbase Info: activating english \partname on input line 128.
+Package scrbase Info: activating english \chaptername on input line 128.
+Package scrbase Info: activating english \appendixname on input line 128.
+Package scrbase Info: activating english \figurename on input line 128.
+Package scrbase Info: activating english \tablename on input line 128.
+Package scrbase Info: activating english \contentsname on input line 128.
+Package scrbase Info: activating english \listfigurename on input line 128.
+Package scrbase Info: activating english \listtablename on input line 128.
+Package scrbase Info: activating english \bibname on input line 128.
+Package scrbase Info: activating english \indexname on input line 128.
+Package tocbasic Info: usage of `tocbibind' detected on input line 128.
+
+
+Package tocbasic Warning: `tocbibind' redefinition of `\listoffigures'
+(tocbasic)                detected.
+(tocbasic)                Note: Loading `tocbibind' without option `notlof'
+(tocbasic)                can break several features of `tocbasic'.
+
+
+Package tocbasic Warning: `tocbibind' redefinition of `\listoftables'
+(tocbasic)                detected.
+(tocbasic)                Note: Loading `tocbibind' without option `notlot'
+(tocbasic)                can break several features of `tocbasic'.
+
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count341
+\scratchdimen=\dimen299
+\scratchbox=\box86
+\nofMPsegments=\count342
+\nofMParguments=\count343
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count344
+\MPscratchDim=\dimen300
+\MPnumerator=\count345
+\makeMPintoPDFobject=\count346
+\everyMPtoPDFconversion=\toks39
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@mv@tabular=\count347
+\c@mv@boldtabular=\count348
+LaTeX Info: Redefining \microtypecontext on input line 128.
+Package microtype Info: Applying patch `item' on input line 128.
+Package microtype Info: Applying patch `toc' on input line 128.
+Package microtype Info: Applying patch `eqnum' on input line 128.
+Package microtype Info: Applying patch `footnote' on input line 128.
+Package microtype Info: Applying patch `verbatim' on input line 128.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 128.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-bch.cfg
+File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
+
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 14.22636pt
+* modes: includehead includefoot includemp twoside 
+* h-part:(L,W,R)=(42.67912pt, 497.92326pt, 42.67912pt)
+* v-part:(T,H,B)=(42.67912pt, 745.46222pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=487.92326pt
+* \textheight=643.89775pt
+* \oddsidemargin=-15.3645pt
+* \evensidemargin=-19.59087pt
+* \topmargin=-29.59087pt
+* \headheight=33.56445pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.6pt
+* \marginparwidth=0.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\ptxcd_headrule_box=\box87
+Package scrbase Info: activating english \ptxcd_byname on input line 128.
+Package scrbase Info: activating english \ptxcd_fromname on input line 128.
+Package scrbase Info: activating english \ptxcd_departmentprefix: on input line
+ 128.
+Package scrbase Info: activating english \ptxcd_reviewname on input line 128.
+Package scrbase Info: activating english \ptxcd_examdatename on input line 128.
+
+Package scrbase Info: activating english \ptxcd_submissiondatename on input lin
+e 128.
+Package scrbase Info: activating english \ptxcd_studentIDname on input line 128
+.
+Package scrbase Info: activating english \g__ptxcd_cc_attr_by: on input line 12
+8.
+Package scrbase Info: activating english \g__ptxcd_cc_attr_nc: on input line 12
+8.
+Package scrbase Info: activating english \g__ptxcd_cc_attr_sa: on input line 12
+8.
+Package scrbase Info: activating english \g__ptxcd_cc_attr_nd: on input line 12
+8.
+Package scrbase Info: activating english \g__ptxcd_cc_intro: on input line 128.
+
+Package scrbase Info: activating english \g__ptxcd_cc_sep: on input line 128.
+Package scrbase Info: activating english \researchgroupname on input line 128.
+Package scrbase Info: activating english \institutename on input line 128.
+Package scrbase Info: activating english \authorandname on input line 128.
+Package scrbase Info: activating english \ptxcd_datename on input line 128.
+Package hyperref Info: Link coloring OFF on input line 128.
+(Thesis.out) (Thesis.out)
+\@outlinefile=\write4
+\openout4 = `Thesis.out'.
+
+Class scrbook Info: loading recommended package `bookmark'.
+(scrbook)           Using `bookmark' together with `hyperref' is recommended,
+(scrbook)           because of handling of possible bookmark level gaps.
+(scrbook)           You can avoid loading `bookmark' with KOMA-Script option
+(scrbook)           `bookmarkpackage=false' before \begin{document} and
+(scrbook)           you can avoid this message adding:
+(scrbook)             \usepackage{bookmark}
+(scrbook)           before \begin{document} on input line 128.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
+Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.de
+f
+File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
+\BKM@id=\count349
+))
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tra
+nslations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 128.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tra
+nslations-basic-dictionary-german.trsl
+File: translations-basic-dictionary-german.trsl (german translation file `trans
+lations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `german'. on input line 128.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+\symgns@font=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/XCharter-TLF/m/n --> TS1/XCharter-TLF/b/n on input 
+line 128.
+Package gensymb Info: Math companion symbols declared on input line 128.
+LaTeX Info: Redefining \degree on input line 128.
+LaTeX Info: Redefining \celsius on input line 128.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 128.
+LaTeX Info: Redefining \ohm on input line 128.
+Package gensymb Info: Using \textohm for \ohm on input line 128.
+LaTeX Info: Redefining \micro on input line 128.
+Package gensymb Info: Using \textmu for \micro on input line 128.
+
+Package tudapub/thesis Info: You submitted birthplace data for title
+(tudapub/thesis)             information.
+(tudapub/thesis)             This field is only used for type=dr/drfinal.
+(tudapub/thesis)             It will be ignored.
+
+
+Package tudapub/thesis Info: You submitted examdate data for title
+(tudapub/thesis)             information.
+(tudapub/thesis)             This field is only used for type=dr/drfinal.
+(tudapub/thesis)             It will be ignored.
+
+Package scrbase Info: activating english \ptxcd_department: on input line 163.
+Package scrbase Info: activating english \departmentname on input line 163.
+Package scrbase Info: activating english \ptxcd_departmentprefix: on input line
+ 163.
+Package scrbase Info: activating english \departmentfullname on input line 163.
+
+\ptxcd_xmpdata_stream=\write5
+\openout5 = `Thesis.xmpdata'.
+
+LaTeX Font Info:    Trying to load font information for T1+Roboto-LF on input l
+ine 163.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/roboto\t1roboto-lf.fd
+File: T1Roboto-LF.fd 2019/12/11 (autoinst) Font definitions for T1/Roboto-LF.
+)
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 163.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 163.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Roboto-LF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 163.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 10.95pt on input line 163.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 163.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 36.0pt on input line 163.
+LaTeX Font Info:    Trying to load font information for T1+Roboto-TLF on input 
+line 163.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/roboto\t1roboto-tlf.fd
+File: T1Roboto-TLF.fd 2019/12/11 (autoinst) Font definitions for T1/Roboto-TLF.
+
+)
+LaTeX Font Info:    Font shape `T1/Roboto-TLF/m/n' aliased to
+(Font)              `T1/Roboto-TLF/regular/n' on input line 163.
+LaTeX Font Info:    Font shape `T1/Roboto-TLF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 163.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `Roboto-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Font shape `T1/Roboto-TLF/m/n' aliased to
+(Font)              `T1/Roboto-TLF/regular/n' on input line 163.
+LaTeX Font Info:    Font shape `T1/Roboto-TLF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 163.
+LaTeX Font Info:    Font shape `T1/Roboto-TLF/b/n' aliased to
+(Font)              `T1/Roboto-TLF/bold/n' on input line 163.
+LaTeX Font Info:    Font shape `T1/Roboto-TLF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 163.
+<tuda_logo.pdf, id=6, 156.48964pt x 62.59586pt>
+File: tuda_logo.pdf Graphic file (type pdf)
+<use tuda_logo.pdf>
+Package pdftex.def Info: tuda_logo.pdf  used on input line 163.
+(pdftex.def)             Requested size: 156.49402pt x 62.59605pt.
+ (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 16
+3.
+ (C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/base\ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 1
+63.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/stmaryrd\ustmry.fd)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 163
+.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 163
+.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for TS1+XCharter-TLF on inp
+ut line 163.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/xcharter\ts1xcharter-t
+lf.fd
+File: TS1XCharter-TLF.fd 2020/05/25 (msharpe) Font definitions for TS1/XCharter
+-TLF.
+)
+LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 163.
+Package microtype Info: Character `textbardbl ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textcelsius ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/10.95'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 163.
+Package microtype Info: Character `textbardbl ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textcelsius ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/8'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 163.
+Package microtype Info: Character `textbardbl ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/6'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textcelsius ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/6'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 163.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 163.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 10.0pt on input line 163.
+<Diagrams/Title.jpg, id=7, 4657.4pt x 2619.7875pt>
+File: Diagrams/Title.jpg Graphic file (type jpg)
+<use Diagrams/Title.jpg>
+Package pdftex.def Info: Diagrams/Title.jpg  used on input line 163.
+(pdftex.def)             Requested size: 512.14963pt x 288.0576pt.
+ [1{C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_b
+5rac7.enc}
+
+
+
+
+
+
+
+
+{C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_4jpe
+n6.enc} <./Diagrams/Title.jpg> <./tuda_logo.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 163--163
+
+ []
+
+[2
+
+
+{C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch_ryd
+p4l.enc}]
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 165.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 165.
+LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 165.
+Package microtype Info: Character `textbardbl ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textcelsius ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/10'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 165.
+Package microtype Info: Character `textbardbl ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textcelsius ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/7'.
+(microtype)             Ignoring protrusion settings for this character.
+LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 165.
+Package microtype Info: Character `textbardbl ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/5'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textcelsius ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/5'.
+(microtype)             Ignoring protrusion settings for this character.
+ [3
+
+
+
+
+]
+\openout2 = `Chapters/Acknowledgments.aux'.
+
+ (Chapters/Acknowledgments.tex [4
+
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 1.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 20.74pt on input line 1.
+) [5] [6
+
+
+
+
+]
+Package tocbasic Info: character protrusion at toc deactivated on input line 16
+7.
+ (Thesis.toc [7]
+Overfull \hbox (1.29202pt too wide) detected at line 56
+ []\T1/XCharter-TLF/m/n/10.95 100
+ []
+
+
+Overfull \hbox (1.29202pt too wide) detected at line 57
+ []\T1/XCharter-TLF/m/n/10.95 100
+ []
+
+)
+\tf@toc=\write6
+\openout6 = `Thesis.toc'.
+
+ [8]
+\openout2 = `Chapters/Introduction.aux'.
+
+ (Chapters/Introduction.tex
+chapter 1.
+
+Class scrbook Warning: \float@addtolists detected!
+(scrbook)              Implementation of \float@addtolist became
+(scrbook)              deprecated in KOMA-Script v3.01 2008/11/14 and
+(scrbook)              has been replaced by several more flexible
+(scrbook)              features of package `tocbasic`.
+(scrbook)              Since Version 3.12 support for deprecated
+(scrbook)              \float@addtolist interface has been
+(scrbook)              restricted to only some of the KOMA-Script
+(scrbook)              features and been removed from others.
+(scrbook)              Loading of package `scrhack' may help to
+(scrbook)              avoid this warning, if you are using a
+(scrbook)              a package that still implements the
+(scrbook)              deprecated \float@addtolist interface.
+
+[9
+
+
+
+]
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 68.
+
+
+pdfTeX warning: pdflatex.exe (file ./Diagrams/HIHEX.pdf): PDF inclusion: found 
+PDF version <1.7>, but at most version <1.5> allowed
+<Diagrams/HIHEX.pdf, id=225, 598.2149pt x 249.42184pt>
+File: Diagrams/HIHEX.pdf Graphic file (type pdf)
+<use Diagrams/HIHEX.pdf>
+Package pdftex.def Info: Diagrams/HIHEX.pdf  used on input line 87.
+(pdftex.def)             Requested size: 423.23781pt x 176.47038pt.
+[10]
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 109.
+ [11{C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/xcharter/xch
+1_co4ru4.enc} <./Diagrams/HIHEX.pdf>]) [12]
+\openout2 = `Chapters/XAFS.aux'.
+
+ (Chapters/XAFS.tex
+chapter 2.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 69.
+<Diagrams/XAFS_scheme.PNG, id=306, 645.612pt x 587.796pt>
+File: Diagrams/XAFS_scheme.PNG Graphic file (type png)
+<use Diagrams/XAFS_scheme.PNG>
+Package pdftex.def Info: Diagrams/XAFS_scheme.PNG  used on input line 74.
+(pdftex.def)             Requested size: 273.85931pt x 249.33911pt.
+[13
+
+
+
+
+
+] [14 <./Diagrams/XAFS_scheme.PNG>]
+<Diagrams/XAFS_examples.PNG, id=337, 825.68475pt x 401.70074pt>
+File: Diagrams/XAFS_examples.PNG Graphic file (type png)
+<use Diagrams/XAFS_examples.PNG>
+Package pdftex.def Info: Diagrams/XAFS_examples.PNG  used on input line 131.
+(pdftex.def)             Requested size: 497.92326pt x 242.24818pt.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
+(Font)              scaled to size 10.0pt on input line 145.
+) [15 <./Diagrams/XAFS_examples.PNG>]
+\openout2 = `Chapters/Theory.aux'.
+
+
+(Chapters/Theory.tex [16
+
+
+
+
+
+]
+chapter 3.
+[17]
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 101.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 14.4pt on input line 101.
+LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 101.
+Package microtype Info: Character `textbardbl ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textcelsius ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/14.4'.
+(microtype)             Ignoring protrusion settings for this character.
+
+
+pdfTeX warning: pdflatex.exe (file ./Diagrams/Basic_Spectrometer.pdf): PDF incl
+usion: found PDF version <1.7>, but at most version <1.5> allowed
+<Diagrams/Basic_Spectrometer.pdf, id=368, 635.97598pt x 407.42212pt>
+File: Diagrams/Basic_Spectrometer.pdf Graphic file (type pdf)
+<use Diagrams/Basic_Spectrometer.pdf>
+Package pdftex.def Info: Diagrams/Basic_Spectrometer.pdf  used on input line 12
+0.
+(pdftex.def)             Requested size: 348.54475pt x 223.28711pt.
+
+Underfull \vbox (badness 1226) has occurred while \output is active []
+
+ [18 <./Diagrams/Basic_Spectrometer.pdf>]
+<Diagrams/Schematic_vonHamos.PNG, id=402, 685.3605pt x 287.8755pt>
+File: Diagrams/Schematic_vonHamos.PNG Graphic file (type png)
+<use Diagrams/Schematic_vonHamos.PNG>
+Package pdftex.def Info: Diagrams/Schematic_vonHamos.PNG  used on input line 20
+2.
+(pdftex.def)             Requested size: 448.12788pt x 188.23257pt.
+ [19 <./Diagrams/Schematic_vonHamos.PNG>]
+<Diagrams/3DSchematicFSSR.PNG, id=420, 563.706pt x 406.51875pt>
+File: Diagrams/3DSchematicFSSR.PNG Graphic file (type png)
+<use Diagrams/3DSchematicFSSR.PNG>
+Package pdftex.def Info: Diagrams/3DSchematicFSSR.PNG  used on input line 267.
+(pdftex.def)             Requested size: 288.7964pt x 208.27086pt.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 273.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 273.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 273.
+<Diagrams/2D1DFSSR.PNG, id=422, 351.11176pt x 370.986pt>
+File: Diagrams/2D1DFSSR.PNG Graphic file (type png)
+<use Diagrams/2D1DFSSR.PNG>
+Package pdftex.def Info: Diagrams/2D1DFSSR.PNG  used on input line 279.
+(pdftex.def)             Requested size: 189.21326pt x 199.92186pt.
+ [20 <./Diagrams/3DSchematicFSSR.PNG> <./Diagrams/2D1DFSSR.PNG>] [21]
+<Diagrams/DUCKDispersionCalc.PNG, id=463, 578.16pt x 397.485pt>
+File: Diagrams/DUCKDispersionCalc.PNG Graphic file (type png)
+<use Diagrams/DUCKDispersionCalc.PNG>
+Package pdftex.def Info: Diagrams/DUCKDispersionCalc.PNG  used on input line 40
+8.
+(pdftex.def)             Requested size: 398.34012pt x 273.85858pt.
+ [22 <./Diagrams/DUCKDispersionCalc.PNG>]
+<Diagrams/FSSRDispersionYang.PNG, id=477, 1321.93875pt x 740.0147pt>
+File: Diagrams/FSSRDispersionYang.PNG Graphic file (type png)
+<use Diagrams/FSSRDispersionYang.PNG>
+Package pdftex.def Info: Diagrams/FSSRDispersionYang.PNG  used on input line 47
+0.
+(pdftex.def)             Requested size: 398.34012pt x 222.9885pt.
+ [23 <./Diagrams/FSSRDispersionYang.PNG>] [24] [25])
+[26]
+\openout2 = `Chapters/DesignConsiderations.aux'.
+
+ (Chapters/DesignConsiderations.tex
+chapter 4.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 36.
+[27
+
+
+
+
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./Diagrams/BraggAngleConstraint.pdf): PDF in
+clusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Diagrams/BraggAngleConstraint.pdf, id=554, 307.05716pt x 335.87482pt>
+File: Diagrams/BraggAngleConstraint.pdf Graphic file (type pdf)
+<use Diagrams/BraggAngleConstraint.pdf>
+Package pdftex.def Info: Diagrams/BraggAngleConstraint.pdf  used on input line 
+74.
+(pdftex.def)             Requested size: 248.96162pt x 272.33386pt.
+[28 <./Diagrams/BraggAngleConstraint.pdf>]
+
+Package siunitx Warning: Unit macro \angstrom has been deprecated in this
+(siunitx)                release.
+(siunitx)                
+(siunitx)                The BIPM have removed this unit from the SI Brochure.
+(siunitx)                You should define it yourself using \DeclareSIUnit in
+(siunitx)                your source. The current definition is
+(siunitx)                
+(siunitx)                \DeclareSIUnit\angstrom{\text {Å}}
+
+<Diagrams/DUCCRealSchematic.PNG, id=609, 496.85625pt x 440.847pt>
+File: Diagrams/DUCCRealSchematic.PNG Graphic file (type png)
+<use Diagrams/DUCCRealSchematic.PNG>
+Package pdftex.def Info: Diagrams/DUCCRealSchematic.PNG  used on input line 204
+.
+(pdftex.def)             Requested size: 239.00104pt x 212.06157pt.
+LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 205.
+Package microtype Info: Character `textbardbl ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/9'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textcelsius ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/9'.
+(microtype)             Ignoring protrusion settings for this character.
+<Diagrams/DUCCRealSchematicSide.PNG, id=610, 457.71pt x 224.037pt>
+File: Diagrams/DUCCRealSchematicSide.PNG Graphic file (type png)
+<use Diagrams/DUCCRealSchematicSide.PNG>
+Package pdftex.def Info: Diagrams/DUCCRealSchematicSide.PNG  used on input line
+ 211.
+(pdftex.def)             Requested size: 248.96162pt x 121.86014pt.
+[29]
+<Diagrams/FSSRRealScheme.PNG, id=624, 510.10574pt x 429.40425pt>
+File: Diagrams/FSSRRealScheme.PNG Graphic file (type png)
+<use Diagrams/FSSRRealScheme.PNG>
+Package pdftex.def Info: Diagrams/FSSRRealScheme.PNG  used on input line 280.
+(pdftex.def)             Requested size: 398.34012pt x 335.32709pt.
+
+Underfull \vbox (badness 2205) has occurred while \output is active []
+
+ [30 <./Diagrams/DUCCRealSchematic.PNG> <./Diagrams/DUCCRealSchematicSide.PNG>]
+ [31 <./Diagrams/FSSRRealScheme.PNG>]
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/it' will be
+(Font)              scaled to size 10.0pt on input line 409.
+ [32] [33]) [34]
+\openout2 = `Chapters/ExperimentalSetup.aux'.
+
+ (Chapters/ExperimentalSetup.tex
+chapter 5.
+[35
+
+
+
+
+
+]
+
+pdfTeX warning: pdflatex.exe (file ./Diagrams/Experimental_setup_schematic.pdf)
+: PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Diagrams/Experimental_setup_schematic.pdf, id=695, 617.09544pt x 460.08888pt>
+File: Diagrams/Experimental_setup_schematic.pdf Graphic file (type pdf)
+<use Diagrams/Experimental_setup_schematic.pdf>
+Package pdftex.def Info: Diagrams/Experimental_setup_schematic.pdf  used on inp
+ut line 70.
+(pdftex.def)             Requested size: 393.35603pt x 293.26942pt.
+<Diagrams/Inv_HHT_labeled.PNG, id=696, 918.43124pt x 695.59875pt>
+File: Diagrams/Inv_HHT_labeled.PNG Graphic file (type png)
+<use Diagrams/Inv_HHT_labeled.PNG>
+Package pdftex.def Info: Diagrams/Inv_HHT_labeled.PNG  used on input line 82.
+(pdftex.def)             Requested size: 348.54475pt x 263.98001pt.
+[36 <./Diagrams/Experimental_setup_schematic.pdf>] [37 <./Diagrams/Inv_HHT_labe
+led.PNG>] [38]
+<InventorPics/FullDUCC.PNG, id=732, 612.78937pt x 536.0025pt>
+File: InventorPics/FullDUCC.PNG Graphic file (type png)
+<use InventorPics/FullDUCC.PNG>
+Package pdftex.def Info: InventorPics/FullDUCC.PNG  used on input line 259.
+(pdftex.def)             Requested size: 169.29208pt x 148.07588pt.
+<InventorPics/FullDUCCBack.PNG, id=733, 724.50674pt x 352.9185pt>
+File: InventorPics/FullDUCCBack.PNG Graphic file (type png)
+<use InventorPics/FullDUCCBack.PNG>
+Package pdftex.def Info: InventorPics/FullDUCCBack.PNG  used on input line 266.
+
+(pdftex.def)             Requested size: 318.67058pt x 155.22537pt.
+<InventorPics/DUCCTopWoCover.PNG, id=734, 380.17032pt x 557.83406pt>
+File: InventorPics/DUCCTopWoCover.PNG Graphic file (type png)
+<use InventorPics/DUCCTopWoCover.PNG>
+Package pdftex.def Info: InventorPics/DUCCTopWoCover.PNG  used on input line 27
+4.
+(pdftex.def)             Requested size: 174.27617pt x 255.72154pt.
+<InventorPics/DUCCFilterView.PNG, id=735, 986.9372pt x 472.76625pt>
+File: InventorPics/DUCCFilterView.PNG Graphic file (type png)
+<use InventorPics/DUCCFilterView.PNG>
+Package pdftex.def Info: InventorPics/DUCCFilterView.PNG  used on input line 28
+1.
+(pdftex.def)             Requested size: 313.69408pt x 150.27113pt.
+<InventorPics/Real_pic_DUCC_complete.jpeg, id=737, 1156.32pt x 2055.68pt>
+File: InventorPics/Real_pic_DUCC_complete.jpeg Graphic file (type jpg)
+<use InventorPics/Real_pic_DUCC_complete.jpeg>
+Package pdftex.def Info: InventorPics/Real_pic_DUCC_complete.jpeg  used on inpu
+t line 298.
+(pdftex.def)             Requested size: 224.06393pt x 398.33093pt.
+<InventorPics/Real_pic_DUCC_inside.jpeg, id=738, 1156.32pt x 2055.68pt>
+File: InventorPics/Real_pic_DUCC_inside.jpeg Graphic file (type jpg)
+<use InventorPics/Real_pic_DUCC_inside.jpeg>
+Package pdftex.def Info: InventorPics/Real_pic_DUCC_inside.jpeg  used on input 
+line 304.
+(pdftex.def)             Requested size: 224.06393pt x 398.33093pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [39 <./InventorPics/FullDUCC.PNG> <./InventorPics/FullDUCCBack.PNG> <./Invento
+rPics/DUCCTopWoCover.PNG> <./InventorPics/DUCCFilterView.PNG>] [40 <./InventorP
+ics/Real_pic_DUCC_complete.jpeg> <./InventorPics/Real_pic_DUCC_inside.jpeg>]
+<InventorPics/FSSRFullTop.PNG, id=761, 565.51276pt x 457.71pt>
+File: InventorPics/FSSRFullTop.PNG Graphic file (type png)
+<use InventorPics/FSSRFullTop.PNG>
+Package pdftex.def Info: InventorPics/FSSRFullTop.PNG  used on input line 417.
+(pdftex.def)             Requested size: 209.12685pt x 169.25926pt.
+<InventorPics/FSSRFullFront.PNG, id=762, 720.291pt x 460.72125pt>
+File: InventorPics/FSSRFullFront.PNG Graphic file (type png)
+<use InventorPics/FSSRFullFront.PNG>
+Package pdftex.def Info: InventorPics/FSSRFullFront.PNG  used on input line 424
+.
+(pdftex.def)             Requested size: 278.8358pt x 178.35188pt.
+<InventorPics/FSSRFullBack.PNG, id=763, 678.73575pt x 327.02174pt>
+File: InventorPics/FSSRFullBack.PNG Graphic file (type png)
+<use InventorPics/FSSRFullBack.PNG>
+Package pdftex.def Info: InventorPics/FSSRFullBack.PNG  used on input line 431.
+
+(pdftex.def)             Requested size: 298.75699pt x 143.94489pt.
+<InventorPics/FSSRCameraNoSnout.PNG, id=764, 716.07526pt x 470.35725pt>
+File: InventorPics/FSSRCameraNoSnout.PNG Graphic file (type png)
+<use InventorPics/FSSRCameraNoSnout.PNG>
+Package pdftex.def Info: InventorPics/FSSRCameraNoSnout.PNG  used on input line
+ 437.
+(pdftex.def)             Requested size: 189.21326pt x 124.28522pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41]
+<InventorPics/Real_pic_FSSR.jpeg, id=771, 2055.68pt x 1156.32pt>
+File: InventorPics/Real_pic_FSSR.jpeg Graphic file (type jpg)
+<use InventorPics/Real_pic_FSSR.jpeg>
+Package pdftex.def Info: InventorPics/Real_pic_FSSR.jpeg  used on input line 45
+7.
+(pdftex.def)             Requested size: 473.02557pt x 266.07152pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42 <./InventorPics/FSSRFullTop.PNG> <./InventorPics/FSSRFullFront.PNG> <./Inv
+entorPics/FSSRFullBack.PNG> <./InventorPics/FSSRCameraNoSnout.PNG>]) [43 <./Inv
+entorPics/Real_pic_FSSR.jpeg>]
+\openout2 = `Chapters/DataAnalysis.aux'.
+
+ (Chapters/DataAnalysis.tex [44
+
+
+
+
+
+]
+chapter 6.
+[45]
+
+pdfTeX warning: pdflatex.exe (file ./Data_Analysis/Analysis_overview.pdf): PDF 
+inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<Data_Analysis/Analysis_overview.pdf, id=803, 794.97pt x 457.10774pt>
+File: Data_Analysis/Analysis_overview.pdf Graphic file (type pdf)
+<use Data_Analysis/Analysis_overview.pdf>
+Package pdftex.def Info: Data_Analysis/Analysis_overview.pdf  used on input lin
+e 58.
+(pdftex.def)             Requested size: 497.92326pt x 286.3124pt.
+) [46 <./Data_Analysis/Analysis_overview.pdf>]
+\openout2 = `Chapters/ResultsAndDiscussion.aux'.
+
+
+(Chapters/ResultsAndDiscussion.tex
+chapter 7.
+[47
+
+
+
+
+
+]
+<Data_Analysis/basic_spectra/spectra_of_Sm_events_29_31.pdf, id=850, 462.52798p
+t x 346.89601pt>
+File: Data_Analysis/basic_spectra/spectra_of_Sm_events_29_31.pdf Graphic file (
+type pdf)
+<use Data_Analysis/basic_spectra/spectra_of_Sm_events_29_31.pdf>
+Package pdftex.def Info: Data_Analysis/basic_spectra/spectra_of_Sm_events_29_31
+.pdf  used on input line 68.
+(pdftex.def)             Requested size: 243.98512pt x 182.99121pt.
+<Data_Analysis/basic_spectra/basic_spectrum_of_Tb_event_28_on_DUCC.pdf, id=851,
+ 462.52798pt x 346.89601pt>
+File: Data_Analysis/basic_spectra/basic_spectrum_of_Tb_event_28_on_DUCC.pdf Gra
+phic file (type pdf)
+<use Data_Analysis/basic_spectra/basic_spectrum_of_Tb_event_28_on_DUCC.pdf>
+Package pdftex.def Info: Data_Analysis/basic_spectra/basic_spectrum_of_Tb_event
+_28_on_DUCC.pdf  used on input line 75.
+(pdftex.def)             Requested size: 243.98512pt x 182.99121pt.
+<Data_Analysis/basic_spectra/spectra_of_Dy_events_20_33.pdf, id=852, 462.52798p
+t x 346.89601pt>
+File: Data_Analysis/basic_spectra/spectra_of_Dy_events_20_33.pdf Graphic file (
+type pdf)
+<use Data_Analysis/basic_spectra/spectra_of_Dy_events_20_33.pdf>
+Package pdftex.def Info: Data_Analysis/basic_spectra/spectra_of_Dy_events_20_33
+.pdf  used on input line 81.
+(pdftex.def)             Requested size: 243.98512pt x 182.99121pt.
+<Data_Analysis/basic_spectra/spectra_of_Gd_events_24_35.pdf, id=853, 462.52798p
+t x 346.89601pt>
+File: Data_Analysis/basic_spectra/spectra_of_Gd_events_24_35.pdf Graphic file (
+type pdf)
+<use Data_Analysis/basic_spectra/spectra_of_Gd_events_24_35.pdf>
+Package pdftex.def Info: Data_Analysis/basic_spectra/spectra_of_Gd_events_24_35
+.pdf  used on input line 88.
+(pdftex.def)             Requested size: 243.98512pt x 182.99121pt.
+<Data_Analysis/basic_spectra/spectra_of_PTFE_events_60_64_72.pdf, id=854, 462.5
+2798pt x 346.89601pt>
+File: Data_Analysis/basic_spectra/spectra_of_PTFE_events_60_64_72.pdf Graphic f
+ile (type pdf)
+<use Data_Analysis/basic_spectra/spectra_of_PTFE_events_60_64_72.pdf>
+Package pdftex.def Info: Data_Analysis/basic_spectra/spectra_of_PTFE_events_60_
+64_72.pdf  used on input line 94.
+(pdftex.def)             Requested size: 243.98512pt x 182.99121pt.
+<Data_Analysis/basic_spectra/spectra_of_Al_events_19_19.pdf, id=855, 462.52798p
+t x 346.89601pt>
+File: Data_Analysis/basic_spectra/spectra_of_Al_events_19_19.pdf Graphic file (
+type pdf)
+<use Data_Analysis/basic_spectra/spectra_of_Al_events_19_19.pdf>
+Package pdftex.def Info: Data_Analysis/basic_spectra/spectra_of_Al_events_19_19
+.pdf  used on input line 101.
+(pdftex.def)             Requested size: 243.98512pt x 182.99121pt.
+
+Underfull \vbox (badness 1975) has occurred while \output is active []
+
+ [48]
+Overfull \vbox (27.07588pt too high) has occurred while \output is active []
+
+
+[49 <./Data_Analysis/basic_spectra/spectra_of_Sm_events_29_31.pdf> <./Data_Anal
+ysis/basic_spectra/basic_spectrum_of_Tb_event_28_on_DUCC.pdf> <./Data_Analysis/
+basic_spectra/spectra_of_Dy_events_20_33.pdf> <./Data_Analysis/basic_spectra/sp
+ectra_of_Gd_events_24_35.pdf> <./Data_Analysis/basic_spectra/spectra_of_PTFE_ev
+ents_60_64_72.pdf> <./Data_Analysis/basic_spectra/spectra_of_Al_events_19_19.pd
+f>]
+<Data_Analysis/basic_spectra/spectra_of_PTFE_events_75_75.pdf, id=1168, 462.527
+98pt x 346.89601pt>
+File: Data_Analysis/basic_spectra/spectra_of_PTFE_events_75_75.pdf Graphic file
+ (type pdf)
+<use Data_Analysis/basic_spectra/spectra_of_PTFE_events_75_75.pdf>
+Package pdftex.def Info: Data_Analysis/basic_spectra/spectra_of_PTFE_events_75_
+75.pdf  used on input line 115.
+(pdftex.def)             Requested size: 348.54475pt x 261.42056pt.
+<Data_Analysis/basic_spectra/FSSR_75.png, id=1169, 1133.4345pt x 286.06876pt>
+File: Data_Analysis/basic_spectra/FSSR_75.png Graphic file (type png)
+<use Data_Analysis/basic_spectra/FSSR_75.png>
+Package pdftex.def Info: Data_Analysis/basic_spectra/FSSR_75.png  used on input
+ line 122.
+(pdftex.def)             Requested size: 497.92326pt x 125.66985pt.
+ [50 <./Data_Analysis/basic_spectra/spectra_of_PTFE_events_75_75.pdf> <./Data_A
+nalysis/basic_spectra/FSSR_75.png>] [51]
+<Data_Analysis/absorption_wo_calibration/absorption_spectrum_of_Sm_event_31_on_
+DUCC.pdf, id=1237, 650.43pt x 433.62pt>
+File: Data_Analysis/absorption_wo_calibration/absorption_spectrum_of_Sm_event_3
+1_on_DUCC.pdf Graphic file (type pdf)
+<use Data_Analysis/absorption_wo_calibration/absorption_spectrum_of_Sm_event_31
+_on_DUCC.pdf>
+Package pdftex.def Info: Data_Analysis/absorption_wo_calibration/absorption_spe
+ctrum_of_Sm_event_31_on_DUCC.pdf  used on input line 155.
+(pdftex.def)             Requested size: 438.1749pt x 292.12508pt.
+<Data_Analysis/absorption_wo_calibration/absorption_spectrum_of_Gd_event_32_on_
+DUCC.pdf, id=1238, 650.43pt x 433.62pt>
+File: Data_Analysis/absorption_wo_calibration/absorption_spectrum_of_Gd_event_3
+2_on_DUCC.pdf Graphic file (type pdf)
+<use Data_Analysis/absorption_wo_calibration/absorption_spectrum_of_Gd_event_32
+_on_DUCC.pdf>
+Package pdftex.def Info: Data_Analysis/absorption_wo_calibration/absorption_spe
+ctrum_of_Gd_event_32_on_DUCC.pdf  used on input line 162.
+(pdftex.def)             Requested size: 438.1749pt x 292.12508pt.
+
+
+LaTeX Warning: Float too large for page by 33.3524pt on input line 168.
+
+<Data_Analysis/absorption/absorption_spectrum_of_PTFE_event_72_on_OSUCC.pdf, id
+=1248, 722.7pt x 722.7pt>
+File: Data_Analysis/absorption/absorption_spectrum_of_PTFE_event_72_on_OSUCC.pd
+f Graphic file (type pdf)
+<use Data_Analysis/absorption/absorption_spectrum_of_PTFE_event_72_on_OSUCC.pdf
+>
+Package pdftex.def Info: Data_Analysis/absorption/absorption_spectrum_of_PTFE_e
+vent_72_on_OSUCC.pdf  used on input line 179.
+(pdftex.def)             Requested size: 497.92326pt x 497.9247pt.
+[52] [53 <./Data_Analysis/absorption_wo_calibration/absorption_spectrum_of_Sm_e
+vent_31_on_DUCC.pdf> <./Data_Analysis/absorption_wo_calibration/absorption_spec
+trum_of_Gd_event_32_on_DUCC.pdf>] [54 <./Data_Analysis/absorption/absorption_sp
+ectrum_of_PTFE_event_72_on_OSUCC.pdf>]
+<Data_Analysis/absorption/absorption_spectrum_of_PTFE_event_74_on_FSSR.pdf, id=
+1448, 722.7pt x 722.7pt>
+File: Data_Analysis/absorption/absorption_spectrum_of_PTFE_event_74_on_FSSR.pdf
+ Graphic file (type pdf)
+<use Data_Analysis/absorption/absorption_spectrum_of_PTFE_event_74_on_FSSR.pdf>
+
+Package pdftex.def Info: Data_Analysis/absorption/absorption_spectrum_of_PTFE_e
+vent_74_on_FSSR.pdf  used on input line 193.
+(pdftex.def)             Requested size: 497.92326pt x 497.9247pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [55]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [56 <./Data_Analysis/absorption/absorption_spectrum_of_PTFE_event_74_on_FSSR.p
+df>]
+[57]
+<Data_Analysis/R_int_ratio/spectra_of_Al_event_19_transmitted.pdf, id=1545, 462
+.52798pt x 346.89601pt>
+File: Data_Analysis/R_int_ratio/spectra_of_Al_event_19_transmitted.pdf Graphic 
+file (type pdf)
+<use Data_Analysis/R_int_ratio/spectra_of_Al_event_19_transmitted.pdf>
+Package pdftex.def Info: Data_Analysis/R_int_ratio/spectra_of_Al_event_19_trans
+mitted.pdf  used on input line 220.
+(pdftex.def)             Requested size: 398.34012pt x 298.76938pt.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 221.
+LaTeX Font Info:    Font shape `T1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 221.
+<Data_Analysis/efficiency_graph.png, id=1548, 774.7344pt x 592.8549pt>
+File: Data_Analysis/efficiency_graph.png Graphic file (type png)
+<use Data_Analysis/efficiency_graph.png>
+Package pdftex.def Info: Data_Analysis/efficiency_graph.png  used on input line
+ 235.
+(pdftex.def)             Requested size: 398.34012pt x 304.82162pt.
+
+Underfull \vbox (badness 6188) has occurred while \output is active []
+
+ [58 <./Data_Analysis/R_int_ratio/spectra_of_Al_event_19_transmitted.pdf>] [59 
+<./Data_Analysis/efficiency_graph.png (PNG copy)>] [60] [61]
+<Data_Analysis/resolution/peak_of_Al_(thick)_event_16_on_FSSR.pdf, id=1646, 578
+.16pt x 361.35pt>
+File: Data_Analysis/resolution/peak_of_Al_(thick)_event_16_on_FSSR.pdf Graphic 
+file (type pdf)
+<use Data_Analysis/resolution/peak_of_Al_(thick)_event_16_on_FSSR.pdf>
+Package pdftex.def Info: Data_Analysis/resolution/peak_of_Al_(thick)_event_16_o
+n_FSSR.pdf  used on input line 314.
+(pdftex.def)             Requested size: 448.12788pt x 280.07643pt.
+<Data_Analysis/resolution/peak_of_Al_event_19_on_DUCC.pdf, id=1647, 578.16pt x 
+361.35pt>
+File: Data_Analysis/resolution/peak_of_Al_event_19_on_DUCC.pdf Graphic file (ty
+pe pdf)
+<use Data_Analysis/resolution/peak_of_Al_event_19_on_DUCC.pdf>
+Package pdftex.def Info: Data_Analysis/resolution/peak_of_Al_event_19_on_DUCC.p
+df  used on input line 323.
+(pdftex.def)             Requested size: 448.12788pt x 280.07643pt.
+<Data_Analysis/resolution/transmission_of_Gd_event_32_on_DUCC.pdf, id=1648, 578
+.16pt x 361.35pt>
+File: Data_Analysis/resolution/transmission_of_Gd_event_32_on_DUCC.pdf Graphic 
+file (type pdf)
+<use Data_Analysis/resolution/transmission_of_Gd_event_32_on_DUCC.pdf>
+Package pdftex.def Info: Data_Analysis/resolution/transmission_of_Gd_event_32_o
+n_DUCC.pdf  used on input line 330.
+(pdftex.def)             Requested size: 448.12788pt x 280.07643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [62 <./Data_Analysis/resolution/peak_of_Al_(thick)_event_16_on_FSSR.pdf>]
+Overfull \vbox (8.25511pt too high) has occurred while \output is active []
+
+
+[63 <./Data_Analysis/resolution/peak_of_Al_event_19_on_DUCC.pdf> <./Data_Analys
+is/resolution/transmission_of_Gd_event_32_on_DUCC.pdf>]
+<Data_Analysis/resolution/peak_of_Al_event_18_on_SUCC.pdf, id=1830, 578.16pt x 
+361.35pt>
+File: Data_Analysis/resolution/peak_of_Al_event_18_on_SUCC.pdf Graphic file (ty
+pe pdf)
+<use Data_Analysis/resolution/peak_of_Al_event_18_on_SUCC.pdf>
+Package pdftex.def Info: Data_Analysis/resolution/peak_of_Al_event_18_on_SUCC.p
+df  used on input line 340.
+(pdftex.def)             Requested size: 448.12788pt x 280.07643pt.
+ [64 <./Data_Analysis/resolution/peak_of_Al_event_18_on_SUCC.pdf>] [65] [66]
+LaTeX Font Info:    Font shape `TS1/XCharter-TLF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 478.
+Package microtype Info: Character `textbardbl ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+Package microtype Info: Character `textcelsius ' is missing
+(microtype)             in font `TS1/XCharter-TLF/m/n/12'.
+(microtype)             Ignoring protrusion settings for this character.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 478.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\upalpha' on input line 478.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 478.
+
+[67]
+<Data_Analysis/converison_efficiency/spectra_of_Al_event_19_on_DUCC_transmitted
+_spectrum.pdf, id=1933, 420.48459pt x 322.65492pt>
+File: Data_Analysis/converison_efficiency/spectra_of_Al_event_19_on_DUCC_transm
+itted_spectrum.pdf Graphic file (type pdf)
+<use Data_Analysis/converison_efficiency/spectra_of_Al_event_19_on_DUCC_transmi
+tted_spectrum.pdf>
+Package pdftex.def Info: Data_Analysis/converison_efficiency/spectra_of_Al_even
+t_19_on_DUCC_transmitted_spectrum.pdf  used on input line 484.
+(pdftex.def)             Requested size: 398.34012pt x 305.6687pt.
+
+Underfull \vbox (badness 2261) has occurred while \output is active []
+
+ [68 <./Data_Analysis/converison_efficiency/spectra_of_Al_event_19_on_DUCC_tran
+smitted_spectrum.pdf>]) [69]
+\openout2 = `Chapters/Outlook.aux'.
+
+ (Chapters/Outlook.tex [70
+
+
+
+
+
+]
+chapter 8.
+[71] [72]) [73] [74] (Thesis.bbl [75
+
+
+
+
+]
+LaTeX Font Info:    Trying to load font information for T1+RobotoMono-TLF on in
+put line 123.
+
+(C:\Users\Carlos\AppData\Local\Programs\MiKTeX\tex/latex/roboto\t1robotomono-tl
+f.fd
+File: T1RobotoMono-TLF.fd 2019/12/11 (autoinst) Font definitions for T1/RobotoM
+ono-TLF.
+)
+LaTeX Font Info:    Font shape `T1/RobotoMono-TLF/m/n' aliased to
+(Font)              `T1/RobotoMono-TLF/regular/n' on input line 123.
+LaTeX Font Info:    Font shape `T1/RobotoMono-TLF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 123.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `RobotoMono-TLF' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--124
+[]\T1/XCharter-TLF/m/n/10.95 (+20) Ringbeschleuniger SIS18 ^^U der Reko-rd-hal-
+ter, URL []$\T1/RobotoMono-TLF/regular/n/10.95 https : / / www . gsi . de /
+ []
+
+
+Underfull \hbox (badness 5008) in paragraph at lines 126--128
+[]\T1/XCharter-TLF/m/n/10.95 (+20) D. Var-entsov, HHT Ex-per-i-men-tal Area, UR
+L []$\T1/RobotoMono-TLF/regular/n/10.95 https : / / www . gsi . de / work / for
+schung /
+ []
+
+[76{C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_e
+24joy.enc}] [77]
+Underfull \hbox (badness 5077) in paragraph at lines 282--284
+[]\T1/XCharter-TLF/m/n/10.95 (+20) Berkeley Lab, Fil-ter Trans-mis-sion Databas
+e, URL []$\T1/RobotoMono-TLF/regular/n/10.95 https : / / henke . lbl . gov / op
+tical _
+ []
+
+) [78]
+\openout2 = `Chapters/Appendix.aux'.
+
+ (Chapters/Appendix.tex
+chapter I.
+[79
+
+
+
+] [80
+
+
+]
+chapter II.
+<Diagrams/FSSRsimpleRayTracing.png, id=2064, 462.528pt x 346.896pt>
+File: Diagrams/FSSRsimpleRayTracing.png Graphic file (type png)
+<use Diagrams/FSSRsimpleRayTracing.png>
+Package pdftex.def Info: Diagrams/FSSRsimpleRayTracing.png  used on input line 
+143.
+(pdftex.def)             Requested size: 448.12788pt x 336.11288pt.
+[81] [82 <./Diagrams/FSSRsimpleRayTracing.png>]
+<Diagrams/FSSRmmpxrtGraphs.PNG, id=2084, 511.31026pt x 435.42674pt>
+File: Diagrams/FSSRmmpxrtGraphs.PNG Graphic file (type png)
+<use Diagrams/FSSRmmpxrtGraphs.PNG>
+Package pdftex.def Info: Diagrams/FSSRmmpxrtGraphs.PNG  used on input line 211.
+
+(pdftex.def)             Requested size: 497.92326pt x 424.04437pt.
+<Diagrams/FSSRmmpxrtData.PNG, id=2085, 222.23026pt x 271.61475pt>
+File: Diagrams/FSSRmmpxrtData.PNG Graphic file (type png)
+<use Diagrams/FSSRmmpxrtData.PNG>
+Package pdftex.def Info: Diagrams/FSSRmmpxrtData.PNG  used on input line 222.
+(pdftex.def)             Requested size: 184.22917pt x 225.17906pt.
+<Diagrams/DispersionComparisonFSSR.png, id=2086, 462.528pt x 346.896pt>
+File: Diagrams/DispersionComparisonFSSR.png Graphic file (type png)
+<use Diagrams/DispersionComparisonFSSR.png>
+Package pdftex.def Info: Diagrams/DispersionComparisonFSSR.png  used on input l
+ine 231.
+(pdftex.def)             Requested size: 338.58417pt x 253.95184pt.
+
+Overfull \hbox (24.89008pt too wide) in paragraph at lines 220--243
+[][] [] 
+ []
+
+[83 <./Diagrams/FSSRmmpxrtGraphs.PNG>] [84 <./Diagrams/FSSRmmpxrtData.PNG> <./D
+iagrams/DispersionComparisonFSSR.png>]
+<Diagrams/DUCCmmpxrtGraphs.PNG, id=2115, 526.3665pt x 437.2335pt>
+File: Diagrams/DUCCmmpxrtGraphs.PNG Graphic file (type png)
+<use Diagrams/DUCCmmpxrtGraphs.PNG>
+Package pdftex.def Info: Diagrams/DUCCmmpxrtGraphs.PNG  used on input line 412.
+
+(pdftex.def)             Requested size: 497.92326pt x 413.62149pt.
+ [85]
+<Diagrams/DUCCmmpxrtData.PNG, id=2122, 251.7405pt x 326.4195pt>
+File: Diagrams/DUCCmmpxrtData.PNG Graphic file (type png)
+<use Diagrams/DUCCmmpxrtData.PNG>
+Package pdftex.def Info: Diagrams/DUCCmmpxrtData.PNG  used on input line 423.
+(pdftex.def)             Requested size: 184.22917pt x 238.88193pt.
+<Diagrams/DispersionComparisonDUCK.png, id=2123, 462.528pt x 346.896pt>
+File: Diagrams/DispersionComparisonDUCK.png Graphic file (type png)
+<use Diagrams/DispersionComparisonDUCK.png>
+Package pdftex.def Info: Diagrams/DispersionComparisonDUCK.png  used on input l
+ine 432.
+(pdftex.def)             Requested size: 338.58417pt x 253.95184pt.
+
+Overfull \hbox (24.89008pt too wide) in paragraph at lines 421--442
+[][] [] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [86 <./Diagrams/DUCCmmpxrtGraphs.PNG>] [87 <./Diagrams/DUCCmmpxrtData.PNG> <./
+Diagrams/DispersionComparisonDUCK.png>] [88]
+chapter III.
+[89
+
+
+]
+<InventorPics/Alignment3.PNG, id=2172, 343.2825pt x 411.939pt>
+File: InventorPics/Alignment3.PNG Graphic file (type png)
+<use InventorPics/Alignment3.PNG>
+Package pdftex.def Info: InventorPics/Alignment3.PNG  used on input line 691.
+(pdftex.def)             Requested size: 199.16626pt x 238.99391pt.
+<InventorPics/Alignment1.1.PNG, id=2173, 353.52075pt x 467.94826pt>
+File: InventorPics/Alignment1.1.PNG Graphic file (type png)
+<use InventorPics/Alignment1.1.PNG>
+Package pdftex.def Info: InventorPics/Alignment1.1.PNG  used on input line 701.
+
+(pdftex.def)             Requested size: 209.12685pt x 276.81538pt.
+<InventorPics/Alignment1.2.PNG, id=2174, 559.49025pt x 396.88275pt>
+File: InventorPics/Alignment1.2.PNG Graphic file (type png)
+<use InventorPics/Alignment1.2.PNG>
+Package pdftex.def Info: InventorPics/Alignment1.2.PNG  used on input line 709.
+
+(pdftex.def)             Requested size: 278.8358pt x 197.79895pt.
+<InventorPics/Alignment2.1.PNG, id=2175, 505.89pt x 459.51675pt>
+File: InventorPics/Alignment2.1.PNG Graphic file (type png)
+<use InventorPics/Alignment2.1.PNG>
+Package pdftex.def Info: InventorPics/Alignment2.1.PNG  used on input line 718.
+
+(pdftex.def)             Requested size: 239.00104pt x 217.09476pt.
+<InventorPics/Alignment2.2.PNG, id=2176, 589.0005pt x 387.849pt>
+File: InventorPics/Alignment2.2.PNG Graphic file (type png)
+<use InventorPics/Alignment2.2.PNG>
+Package pdftex.def Info: InventorPics/Alignment2.2.PNG  used on input line 727.
+
+(pdftex.def)             Requested size: 239.00104pt x 157.37979pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [90 <./InventorPics/Alignment3.PNG>] [91 <./InventorPics/Alignment1.1.PNG> <./
+InventorPics/Alignment1.2.PNG> <./InventorPics/Alignment2.1.PNG> <./InventorPic
+s/Alignment2.2.PNG>] [92
+
+
+]
+chapter IV.
+<Data_Analysis/resolution/peak_of_Al_event_2_on_FSSR.pdf, id=2195, 578.16pt x 3
+61.35pt>
+File: Data_Analysis/resolution/peak_of_Al_event_2_on_FSSR.pdf Graphic file (typ
+e pdf)
+<use Data_Analysis/resolution/peak_of_Al_event_2_on_FSSR.pdf>
+Package pdftex.def Info: Data_Analysis/resolution/peak_of_Al_event_2_on_FSSR.pd
+f  used on input line 749.
+(pdftex.def)             Requested size: 243.98512pt x 152.48827pt.
+<Data_Analysis/resolution/peak_of_Al_(thick)_event_16_on_SUCC.pdf, id=2196, 578
+.16pt x 361.35pt>
+File: Data_Analysis/resolution/peak_of_Al_(thick)_event_16_on_SUCC.pdf Graphic 
+file (type pdf)
+<use Data_Analysis/resolution/peak_of_Al_(thick)_event_16_on_SUCC.pdf>
+Package pdftex.def Info: Data_Analysis/resolution/peak_of_Al_(thick)_event_16_o
+n_SUCC.pdf  used on input line 756.
+(pdftex.def)             Requested size: 243.98512pt x 152.48827pt.
+<Data_Analysis/resolution/transmission_of_Sm_event_31_on_DUCC.pdf, id=2197, 578
+.16pt x 361.35pt>
+File: Data_Analysis/resolution/transmission_of_Sm_event_31_on_DUCC.pdf Graphic 
+file (type pdf)
+<use Data_Analysis/resolution/transmission_of_Sm_event_31_on_DUCC.pdf>
+Package pdftex.def Info: Data_Analysis/resolution/transmission_of_Sm_event_31_o
+n_DUCC.pdf  used on input line 762.
+(pdftex.def)             Requested size: 243.98512pt x 152.48827pt.
+<Data_Analysis/resolution/peak_of_Al_event_19_on_SUCC.pdf, id=2198, 578.16pt x 
+361.35pt>
+File: Data_Analysis/resolution/peak_of_Al_event_19_on_SUCC.pdf Graphic file (ty
+pe pdf)
+<use Data_Analysis/resolution/peak_of_Al_event_19_on_SUCC.pdf>
+Package pdftex.def Info: Data_Analysis/resolution/peak_of_Al_event_19_on_SUCC.p
+df  used on input line 769.
+(pdftex.def)             Requested size: 243.98512pt x 152.48827pt.
+<Data_Analysis/R_int_ratio/spectra_of_Al_event_19_source.pdf, id=2199, 462.5279
+8pt x 346.89601pt>
+File: Data_Analysis/R_int_ratio/spectra_of_Al_event_19_source.pdf Graphic file 
+(type pdf)
+<use Data_Analysis/R_int_ratio/spectra_of_Al_event_19_source.pdf>
+Package pdftex.def Info: Data_Analysis/R_int_ratio/spectra_of_Al_event_19_sourc
+e.pdf  used on input line 782.
+(pdftex.def)             Requested size: 298.75699pt x 224.07703pt.
+
+Underfull \vbox (badness 2469) has occurred while \output is active []
+
+ [93 <./Data_Analysis/resolution/peak_of_Al_event_2_on_FSSR.pdf> <./Data_Analys
+is/resolution/peak_of_Al_(thick)_event_16_on_SUCC.pdf> <./Data_Analysis/resolut
+ion/transmission_of_Sm_event_31_on_DUCC.pdf> <./Data_Analysis/resolution/peak_o
+f_Al_event_19_on_SUCC.pdf>]
+<Data_Analysis/R_int_ratio/spectra_of_Al_(thick)_event_16.pdf, id=2433, 462.527
+98pt x 346.89601pt>
+File: Data_Analysis/R_int_ratio/spectra_of_Al_(thick)_event_16.pdf Graphic file
+ (type pdf)
+<use Data_Analysis/R_int_ratio/spectra_of_Al_(thick)_event_16.pdf>
+Package pdftex.def Info: Data_Analysis/R_int_ratio/spectra_of_Al_(thick)_event_
+16.pdf  used on input line 789.
+(pdftex.def)             Requested size: 298.75699pt x 224.07703pt.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 794.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\upalpha' on input line 794.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 794.
+
+<Data_Analysis/converison_efficiency/spectra_of_Al_event_19_on_DUCC_source_spec
+trum.pdf, id=2434, 420.35606pt x 322.65492pt>
+File: Data_Analysis/converison_efficiency/spectra_of_Al_event_19_on_DUCC_source
+_spectrum.pdf Graphic file (type pdf)
+<use Data_Analysis/converison_efficiency/spectra_of_Al_event_19_on_DUCC_source_
+spectrum.pdf>
+Package pdftex.def Info: Data_Analysis/converison_efficiency/spectra_of_Al_even
+t_19_on_DUCC_source_spectrum.pdf  used on input line 800.
+(pdftex.def)             Requested size: 243.98512pt x 187.27783pt.
+<Data_Analysis/converison_efficiency/spectra_of_Al_(thick)_event_16_on_SUCC.pdf
+, id=2435, 410.77026pt x 322.65492pt>
+File: Data_Analysis/converison_efficiency/spectra_of_Al_(thick)_event_16_on_SUC
+C.pdf Graphic file (type pdf)
+<use Data_Analysis/converison_efficiency/spectra_of_Al_(thick)_event_16_on_SUCC
+.pdf>
+Package pdftex.def Info: Data_Analysis/converison_efficiency/spectra_of_Al_(thi
+ck)_event_16_on_SUCC.pdf  used on input line 807.
+(pdftex.def)             Requested size: 243.98512pt x 191.6448pt.
+<Data_Analysis/converison_efficiency/spectra_of_Al_event_19_on_SUCC.pdf, id=243
+6, 418.51823pt x 322.65492pt>
+File: Data_Analysis/converison_efficiency/spectra_of_Al_event_19_on_SUCC.pdf Gr
+aphic file (type pdf)
+<use Data_Analysis/converison_efficiency/spectra_of_Al_event_19_on_SUCC.pdf>
+Package pdftex.def Info: Data_Analysis/converison_efficiency/spectra_of_Al_even
+t_19_on_SUCC.pdf  used on input line 813.
+(pdftex.def)             Requested size: 243.98512pt x 188.10002pt.
+<Data_Analysis/converison_efficiency/spectra_of_Al_(thick)_event_16_on_FSSR.pdf
+, id=2437, 413.97284pt x 322.65492pt>
+File: Data_Analysis/converison_efficiency/spectra_of_Al_(thick)_event_16_on_FSS
+R.pdf Graphic file (type pdf)
+<use Data_Analysis/converison_efficiency/spectra_of_Al_(thick)_event_16_on_FSSR
+.pdf>
+Package pdftex.def Info: Data_Analysis/converison_efficiency/spectra_of_Al_(thi
+ck)_event_16_on_FSSR.pdf  used on input line 820.
+(pdftex.def)             Requested size: 243.98512pt x 190.16289pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [94 <./Data_Analysis/R_int_ratio/spectra_of_Al_event_19_source.pdf> <./Data_An
+alysis/R_int_ratio/spectra_of_Al_(thick)_event_16.pdf>]
+<Data_Analysis/mmpxrt_DUCC_new_values.png, id=2538, 1161.21967pt x 733.72424pt>
+
+File: Data_Analysis/mmpxrt_DUCC_new_values.png Graphic file (type png)
+<use Data_Analysis/mmpxrt_DUCC_new_values.png>
+Package pdftex.def Info: Data_Analysis/mmpxrt_DUCC_new_values.png  used on inpu
+t line 833.
+(pdftex.def)             Requested size: 557.67162pt x 352.37396pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [95 <./Data_Analysis/converison_efficiency/spectra_of_Al_event_19_on_DUCC_sour
+ce_spectrum.pdf> <./Data_Analysis/converison_efficiency/spectra_of_Al_(thick)_e
+vent_16_on_SUCC.pdf> <./Data_Analysis/converison_efficiency/spectra_of_Al_event
+_19_on_SUCC.pdf> <./Data_Analysis/converison_efficiency/spectra_of_Al_(thick)_e
+vent_16_on_FSSR.pdf>]
+<Data_Analysis/mmpxrt_FSSR_new_values.png, id=2729, 1172.2439pt x 733.72424pt>
+File: Data_Analysis/mmpxrt_FSSR_new_values.png Graphic file (type png)
+<use Data_Analysis/mmpxrt_FSSR_new_values.png>
+Package pdftex.def Info: Data_Analysis/mmpxrt_FSSR_new_values.png  used on inpu
+t line 840.
+(pdftex.def)             Requested size: 572.6087pt x 358.41965pt.
+ [96 <./Data_Analysis/mmpxrt_DUCC_new_values.png>] [97 <./Data_Analysis/mmpxrt_
+FSSR_new_values.png>] [98
+
+
+]
+chapter V.
+[99]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 873.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\upalpha' on input line 873.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 873.
+
+) [100]
+
+Package tudapub Warning: You did not provide a Label for key introduction.
+(tudapub)                Either you need to recompile your document or add a
+(tudapub)                label using \IMRADlabel.
+
+
+Package tudapub Warning: You did not provide a Label for key methods.
+(tudapub)                Either you need to recompile your document or add a
+(tudapub)                label using \IMRADlabel.
+
+
+Package tudapub Warning: You did not provide a Label for key results.
+(tudapub)                Either you need to recompile your document or add a
+(tudapub)                label using \IMRADlabel.
+
+
+Package tudapub Warning: You did not provide a Label for key discussion.
+(tudapub)                Either you need to recompile your document or add a
+(tudapub)                label using \IMRADlabel.
+
+(Thesis.aux (Chapters/Acknowledgments.aux) (Chapters/Introduction.aux)
+(Chapters/XAFS.aux) (Chapters/Theory.aux) (Chapters/DesignConsiderations.aux)
+(Chapters/ExperimentalSetup.aux) (Chapters/DataAnalysis.aux)
+(Chapters/ResultsAndDiscussion.aux) (Chapters/Outlook.aux)
+(Chapters/Appendix.aux))
+ ***********
+LaTeX2e <2023-11-01>
+L3 programming layer <2023-11-09>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `Thesis.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 37293 strings out of 474587
+ 812536 string characters out of 5745249
+ 1952558 words of memory out of 5000000
+ 57823 multiletter control sequences out of 15000+600000
+ 775003 words of font info for 573 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 122i,24n,121p,10982b,2905s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/type1/google/roboto/Robo
+to-Bold.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/type1/google/r
+oboto/Roboto-Regular.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/google/roboto/RobotoMono-Regular.pfb><C:/Users/Carlos/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/xcharter/XCharter-Bold.pfb><C:/Users/Carlos/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Italic.pfb><C:/Use
+rs/Carlos/AppData/Local/Programs/MiKTeX/fonts/type1/public/xcharter/XCharter-Ro
+man.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
+nts/cm/cmex10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmmi10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/Carlos/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Carlos/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Carlos/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Carlo
+s/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Us
+ers/Carlos/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pf
+b><C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr8.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Carlos/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Carlos/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/euler/eurm10.pfb><C:/Users/Carlos/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Thesis.pdf (100 pages, 10110632 bytes).
+PDF statistics:
+ 3092 PDF objects out of 3580 (max. 8388607)
+ 334 named destinations out of 1000 (max. 500000)
+ 103701 words of extra memory for PDF output out of 106986 (max. 10000000)
+

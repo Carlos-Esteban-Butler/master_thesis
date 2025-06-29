@@ -1,0 +1,309 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{{\tt #1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \expandafter\ifx\csname doi\endcsname\relax
+  \def\doi#1{doi:\discretionary{}{}{}#1}\fi \else
+  \expandafter\ifx\csname doi\endcsname\relax
+  \def\doi{doi:\discretionary{}{}{}\begingroup \urlstyle{rm}\Url}\fi \fi
+
+\bibitem{riley2021warm}
+D.~Riley, Warm Dense Matter: Laboratory Generation and Diagnosis, IOP
+  Publishing (2021), \doi{10.1088/978-0-7503-2348-2}.
+
+\bibitem{falk2018experimental}
+K.~Falk, Experimental methods for warm dense matter research, High Power Laser
+  Science and Engineering, \textbf{ 6}:e59 (2018), \doi{10.1017/hpl.2018.53}.
+
+\bibitem{graziani2014frontiers}
+F.~Graziani \textit{ et~al.\/}, Frontiers and challenges in warm dense matter,
+  volume~96, Springer Science \& Business (2014).
+
+\bibitem{koenig2005progress}
+M.~Koenig \textit{ et~al.\/}, Progress in the study of warm dense matter,
+  Plasma Physics and Controlled Fusion, \textbf{ 47}(12B):B441 (2005),
+  \doi{10.1088/0741-3335/47/12B/S31}.
+
+\bibitem{collins1998measurements}
+G.~Collins \textit{ et~al.\/}, Measurements of the equation of state of
+  deuterium at the fluid insulator-metal transition, Science, \textbf{
+  281}(5380):1178--1181 (1998), \doi{10.1126/science.281.5380.1178}.
+
+\bibitem{tahir2022planetary}
+N.~Tahir \textit{ et~al.\/}, Planetary physics research at the Facility for
+  Antiprotons and Ion Research using intense ion beams, The European Physical
+  Journal Plus, \textbf{ 137}(2):273 (2022),
+  \doi{10.1140/epjp/s13360-022-02476-2}.
+
+\bibitem{bagnoud2010commissioning}
+V.~Bagnoud \textit{ et~al.\/}, Commissioning and early experiments of the
+  PHELIX facility, Applied Physics B, \textbf{ 100}:137--150 (2010),
+  \doi{10.1007/s00340-009-3855-7}.
+
+\bibitem{millot2019nanosecond}
+M.~Millot \textit{ et~al.\/}, Nanosecond X-ray diffraction of shock-compressed
+  superionic water ice, Nature, \textbf{ 569}(7755):251--255 (2019),
+  \doi{10.1038/s41586-019-1114-6}.
+
+\bibitem{altarelli2011european}
+M.~Altarelli, The European X-ray free-electron laser facility in Hamburg,
+  Nuclear Instruments and Methods in Physics Research Section B: Beam
+  Interactions with Materials and Atoms, \textbf{ 269}(24):2845--2849 (2011),
+  \doi{10.1016/j.nimb.2011.04.034}.
+
+\bibitem{riley2017generation}
+D.~Riley, Generation and characterisation of warm dense matter with intense
+  lasers, Plasma Physics and Controlled Fusion, \textbf{ 60}(1):014033 (2017),
+  \doi{10.1088/1361-6587/aa8dd5}.
+
+\bibitem{dubrovinsky2000situ}
+L.~Dubrovinsky \textit{ et~al.\/}, In situ X-ray study of thermal expansion and
+  phase transition of iron at multimegabar pressure, Physical Review Letters,
+  \textbf{ 84}(8):1720 (2000), \doi{10.1103/PhysRevLett.84.1720}.
+
+\bibitem{doppner2023observing}
+T.~D{\"o}ppner \textit{ et~al.\/}, Observing the onset of pressure-driven
+  K-shell delocalization, Nature, 1--6 (2023),
+  \doi{10.1038/s41586-023-05996-8}.
+
+\bibitem{vinko2012creation}
+S.~Vinko \textit{ et~al.\/}, Creation and diagnosis of a solid-density plasma
+  with an X-ray free-electron laser, Nature, \textbf{ 482}(7383):59--62 (2012),
+  \doi{10.1038/nature10746}.
+
+\bibitem{tahir2008studies}
+N.~Tahir \textit{ et~al.\/}, Studies of high-energy density states using
+  isochoric heating of matter by intense heavy ion beams: the HEDgeHOB
+  Collaboration, Physica Scripta, \textbf{ 2008}(T132):014023 (2008),
+  \doi{10.1088/0031-8949/2008/T132/014023}.
+
+\bibitem{schoenberg2020high}
+K.~Schoenberg \textit{ et~al.\/}, High-energy-density-science capabilities at
+  the Facility for Antiproton and Ion Research, Physics of plasmas, \textbf{
+  27}(4):043103 (2020), \doi{10.1063/1.5134846}.
+
+\bibitem{torchio2016probing}
+R.~Torchio \textit{ et~al.\/}, Probing local and electronic structure in Warm
+  Dense Matter: single pulse synchrotron x-ray absorption spectroscopy on
+  shocked Fe, Scientific reports, \textbf{ 6}(1):1--8 (2016),
+  \doi{10.1038/srep26402}.
+
+\bibitem{lee2003finite}
+R.~W. Lee \textit{ et~al.\/}, Finite temperature dense matter studies on
+  next-generation light sources, JOSA B, \textbf{ 20}(4):770--778 (2003),
+  \doi{10.1364/JOSAB.20.000770}.
+
+\bibitem{lee2009x}
+H.~Lee \textit{ et~al.\/}, X-ray Thomson-scattering measurements of density and
+  temperature in shock-compressed beryllium, Physical review letters, \textbf{
+  102}(11):115001 (2009), \doi{10.1103/PhysRevLett.102.115001}.
+
+\bibitem{hall1988experimental}
+T.~Hall \textit{ et~al.\/}, Experimental observation of ion correlation in a
+  dense laser-produced plasma, Physical review letters, \textbf{ 60}(20):2034
+  (1988), \doi{10.1103/PhysRevLett.60.2034}.
+
+\bibitem{newville2014fundamentals}
+M.~Newville, Fundamentals of XAFS, Reviews in Mineralogy and Geochemistry,
+  \textbf{ 78}(1):33--74 (2014), \doi{10.2138/rmg.2014.78.2}.
+
+\bibitem{levy2009x}
+A.~L{\'e}vy \textit{ et~al.\/}, X-ray absorption for the study of warm dense
+  matter, Plasma Physics and Controlled Fusion, \textbf{ 51}(12):124021 (2009),
+  \doi{10.1088/0741-3335/51/12/124021}.
+
+\bibitem{peyrusse2009k}
+O.~Peyrusse \textit{ et~al.\/}, K-edge Absorption spectra in Warm Dense Matter,
+  in AIP Conference Proceedings, volume 1161, 200--206, American Institute of
+  Physics (2009), \doi{10.1063/1.3241191}.
+
+\bibitem{GSI_2023}
+Ringbeschleuniger SIS18 – der Rekordhalter,
+  \urlprefix\url{https://www.gsi.de/forschungbeschleuniger/beschleunigeranlage/ringbeschleuniger}.
+
+\bibitem{GSI_2023_ion_num}
+D. Varentsov, HHT Experimental Area,
+  \urlprefix\url{https://www.gsi.de/work/forschung/appamml/plasmaphysikphelix/anlagen_bei_sis18_hht}.
+
+\bibitem{hoffmann2006frontiers}
+D.~Hoffmann \textit{ et~al.\/}, Frontiers of dense plasma physics with intense
+  ion and laser beams and accelerator technology, Physica Scripta, \textbf{
+  2006}(T123):1 (2006), \doi{10.1088/0031-8949/2006/t123/001}.
+
+\bibitem{kunze2009introduction}
+H.-J. Kunze, Introduction to plasma spectroscopy, volume~56, Springer Science
+  \& Business Media (2009), \doi{https://doi.org/10.1007/978-3-642-02233-3}.
+
+\bibitem{renner2019challenges}
+O.~Renner and F.~Rosmej, Challenges of x-ray spectroscopy in investigations of
+  matter under extreme conditions, Matter and Radiation at Extremes, \textbf{
+  4}(2):024201 (2019), \doi{10.1063/1.5086344}.
+
+\bibitem{levy2010double}
+A.~Levy \textit{ et~al.\/}, Double conical crystal x-ray spectrometer for high
+  resolution ultrafast x-ray absorption near-edge spectroscopy of Al K edge,
+  Review of Scientific Instruments, \textbf{ 81}(6):063107 (2010),
+  \doi{10.1063/1.3441983}.
+
+\bibitem{siegbahn1925spectroscopy}
+M.~Siegbahn, The Spectroscopy of X-rays, volume~10, Oxford University Press, H.
+  Milford (1925).
+
+\bibitem{mottana2013}
+A.~Mottana, 1913--2013--The centennial of X-ray absorption spectroscopy (XAS):
+  Evidences about a question still open, Journal of Electron Spectroscopy and
+  Related Phenomena, \textbf{ 196}:14--19 (2014).
+
+\bibitem{stumm1989history}
+R.~Stumm~von Bordwehr, A history of X-ray absorption fine structure, in Annales
+  de Physique, volume~14, 377--465 (1989).
+
+\bibitem{mottana2015historical}
+A.~Mottana and A.~Marcelli, The historical development of X-ray Absorption Fine
+  Spectroscopy and of its applications to Materials Science, in R.~Pisano
+  (editor), A Bridge between Conceptual Frameworks: Sciences, Society and
+  Technology Studies, 275--301, Springer (2015),
+  \doi{10.48550/arXiv.1312.5295}.
+
+\bibitem{eason1984improved}
+R.~Eason \textit{ et~al.\/}, Improved laser-EXAFS studies of aluminium foil,
+  Journal of Physics C: Solid State Physics, \textbf{ 17}(28):5067 (1984),
+  \doi{10.1088/0022-3719/17/28/022}.
+
+\bibitem{fontaine1979soft}
+A.~Fontaine \textit{ et~al.\/}, Soft X-ray absorption and EXAFS on the K edge
+  of aluminium, Journal of Physics F: Metal Physics, \textbf{ 9}(10):2143
+  (1979), \doi{10.1088/0305-4608/9/10/023}.
+
+\bibitem{bragg1914x}
+W.~Bragg and W.~Bragg, The X-ray spectrometer, Nature, \textbf{
+  94}(2347):199--200 (1914).
+
+\bibitem{yang2011focusing}
+Q.~Yang \textit{ et~al.\/}, Focusing X-ray spectrograph with spatial resolution
+  and uniform dispersion, Nuclear Instruments and Methods in Physics Research
+  Section A: Accelerators, Spectrometers, Detectors and Associated Equipment,
+  \textbf{ 634}(1):52--58 (2011), \doi{10.1016/j.nima.2011.01.032}.
+
+\bibitem{renner1999vertical}
+O.~Renner \textit{ et~al.\/}, Vertical variant of a double channel-cut crystal
+  spectrometer for investigation of laser-generated plasmas, Review of
+  scientific instruments, \textbf{ 70}(7):3025--3031 (1999),
+  \doi{10.1063/1.1149863}.
+
+\bibitem{holzer1998flat}
+G.~H{\"o}lzer \textit{ et~al.\/}, Flat and spherically bent muscovite (mica)
+  crystals for X-ray spectroscopy, Physica Scripta, \textbf{ 57}(2):301 (1998),
+  \doi{10.1088/0031-8949/57/2/029}.
+
+\bibitem{blasco2001portable}
+F.~Blasco \textit{ et~al.\/}, Portable, tunable, high-luminosity spherical
+  crystal spectrometer with an x-ray charge coupled device, for high-resolution
+  x-ray spectromicroscopy of clusters heated by femtosecond laser pulses,
+  Review of scientific instruments, \textbf{ 72}(4):1956--1962 (2001),
+  \doi{10.1063/1.1355273}.
+
+\bibitem{johann1931erzeugung}
+H.~H. Johann, Die erzeugung lichtstarker r{\"o}ntgenspektren mit hilfe von
+  konkavkristallen, Zeitschrift f{\"u}r Physik, \textbf{ 69}:185--206 (1931),
+  \doi{10.1007/BF01798121}.
+
+\bibitem{monot2002high}
+P.~Monot \textit{ et~al.\/}, High-sensitivity, portable, tunable imaging X-ray
+  spectrometer based on a spherical crystal and MCP, Nuclear Instruments and
+  Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors
+  and Associated Equipment, \textbf{ 484}(1-3):299--311 (2002),
+  \doi{10.1016/S0168-9002(01)01991-X}.
+
+\bibitem{faenov1994}
+A.~Y. Faenov \textit{ et~al.\/}, High-performance x-ray spectroscopic devices
+  for plasma microsources investigations, Physica Scripta, \textbf{ 50}(4):333
+  (1994), \doi{10.1088/0031-8949/50/4/003}.
+
+\bibitem{pikuz1995bragg}
+T.~Pikuz \textit{ et~al.\/}, Bragg X-ray optics for imaging spectroscopy of
+  plasma microsources, Journal of X-ray Science and Technology, \textbf{
+  5}(3):323--340 (1995), \doi{10.1006/jxra.1995.0009}.
+
+\bibitem{young1998high}
+B.~Young \textit{ et~al.\/}, High-resolution x-ray spectrometer based on
+  spherically bent crystals for investigations of femtosecond laser plasmas,
+  Review of Scientific Instruments, \textbf{ 69}(12):4049--4053 (1998),
+  \doi{10.1063/1.1149249}.
+
+\bibitem{henke1993x}
+B.~L. Henke, E.~M. Gullikson and J.~C. Davis, X-ray interactions:
+  photoabsorption, scattering, transmission, and reflection at E= 50-30,000 eV,
+  Z= 1-92, Atomic data and nuclear data tables, \textbf{ 54}(2):181--342
+  (1993), \doi{10.1006/adnd.1993.1013}.
+
+\bibitem{ferrari2019characterization}
+C.~Ferrari \textit{ et~al.\/}, Characterization of ammonium dihydrogen
+  phosphate crystals for soft X-ray optics of the Beam Expander Testing X-ray
+  facility (BEaTriX), Journal of Applied Crystallography, \textbf{
+  52}(3):599--604 (2019), \doi{10.1107/S1600576719004631}.
+
+\bibitem{rajesh2015growth}
+P.~Rajesh and P.~Ramasamy, Growth and characterization of large size ADP single
+  crystals and the effect of glycine on their growth and properties, Optical
+  Materials, \textbf{ 42}:87--93 (2015), \doi{10.1016/j.optmat.2014.12.024}.
+
+\bibitem{alkhimova2016determination}
+M.~Alkhimova \textit{ et~al.\/}, Determination of spectral reflectivity of
+  spherically bent mica crystals applied for diagnostics of relativistic laser
+  plasmas, in Journal of Physics: Conference Series, volume 774, 012115, IOP
+  Publishing (2016), \doi{10.1088/1742-6596/774/1/012115}.
+
+\bibitem{loisel2016measurement}
+G.~P. Loisel \textit{ et~al.\/}, Measurement and models of bent KAP (001)
+  crystal integrated reflectivity and resolution, Review of Scientific
+  Instruments, \textbf{ 87}(11) (2016), \doi{10.1063/1.4960149}.
+
+\bibitem{vsmid2021x}
+M.~{\v{S}}m{\'\i}d, X.~Pan and K.~Falk, X-ray spectrometer simulation code with
+  a detailed support of mosaic crystals, Computer Physics Communications,
+  \textbf{ 262}:107811 (2021), \doi{10.1016/j.cpc.2020.107811}.
+
+\bibitem{gilfrich1975integral}
+J.~Gilfrich, D.~Brown and P.~Burkhalter, Integral reflection coefficient of
+  X-ray spectrometer crystals, Applied Spectroscopy, \textbf{ 29}(4):322--326
+  (1975), \doi{10.1366/00037027577445591}.
+
+\bibitem{alice_report}
+A.~Renaux, High-energy laser focal intensity characterization (2023).
+
+\bibitem{dixit1993random}
+S.~Dixit \textit{ et~al.\/}, Random phase plates for beam smoothing on the Nova
+  laser, Applied optics, \textbf{ 32}(14):2543--2554 (1993),
+  \doi{10.1364/AO.32.002543}.
+
+\bibitem{cxro_database}
+Berkeley Lab, Filter Transmission Database,
+  \urlprefix\url{https://henke.lbl.gov/optical_constants/filter2.html}.
+
+\bibitem{doppner2008high}
+T.~D{\"o}ppner \textit{ et~al.\/}, High order reflectivity of highly oriented
+  pyrolytic graphite crystals for x-ray energies up to 22 keV, Review of
+  Scientific Instruments, \textbf{ 79}(10):10E311 (2008),
+  \doi{10.1063/1.2966378}.
+
+\bibitem{giulietti1998x}
+D.~Giulietti and L.~A. Gizzi, X-ray emission from laser-produced plasmas, Ed.
+  Compositori (1998), \doi{10.1007/BF02874624}.
+
+\bibitem{wiese1965plasma}
+W.~Wiese, R.~Huddlestone and S.~Leonard, Plasma Diagnostic Techniques, RH
+  Hudldlestone, SL Leonard, editors, \textbf{ 21}:201--264 (1965).
+
+\bibitem{thompson2001x}
+A.~C. Thompson, D.~Vaughan \textit{ et~al.\/}, X-ray data booklet, volume~8,
+  Lawrence Berkeley National Laboratory, University of California Berkeley, CA
+  (2001).
+
+\bibitem{ruggles2003measurements}
+L.~Ruggles \textit{ et~al.\/}, Measurements of 4--10 keV x-ray production with
+  the Z-Beamlet laser, Review of scientific instruments, \textbf{
+  74}(3):2206--2210 (2003), \doi{10.1063/1.1537854}.
+
+\end{thebibliography}

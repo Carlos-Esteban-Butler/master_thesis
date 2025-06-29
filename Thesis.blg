@@ -1,0 +1,81 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis.aux
+Reallocating 'name_of_file' (item size: 1) to 12 items.
+The style file: BibtexStyle.bst
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: Chapters/Acknowledgments.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: Chapters/Introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: Chapters/XAFS.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: Chapters/Theory.aux
+Reallocating 'name_of_file' (item size: 1) to 34 items.
+A level-1 auxiliary file: Chapters/DesignConsiderations.aux
+Reallocating 'name_of_file' (item size: 1) to 31 items.
+A level-1 auxiliary file: Chapters/ExperimentalSetup.aux
+Reallocating 'name_of_file' (item size: 1) to 26 items.
+A level-1 auxiliary file: Chapters/DataAnalysis.aux
+Reallocating 'name_of_file' (item size: 1) to 34 items.
+A level-1 auxiliary file: Chapters/ResultsAndDiscussion.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: Chapters/Outlook.aux
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: Chapters/Appendix.aux
+Database file #1: ThesisBib.bib
+I was expecting a `,' or a `}'---line 1461 of file ThesisBib.bib
+ :  
+ :  doi={10.1016/j.elspec.2013.12.004}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1479 of file ThesisBib.bib
+ :  
+ :  pages={131--142}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--can't use both volume and number fields in stumm1989history
+Warning--can't use both volume and number fields in thompson2001x
+You've used 59 entries,
+            2620 wiz_defined-function locations,
+            1011 strings with 18884 characters,
+and the built_in function-call counts, 19246 in all, are:
+= -- 1157
+> -- 431
+< -- 7
++ -- 216
+- -- 107
+* -- 1328
+:= -- 2037
+add.period$ -- 59
+call.type$ -- 59
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 61
+duplicate$ -- 2146
+empty$ -- 2223
+format.name$ -- 152
+if$ -- 4163
+int.to.chr$ -- 0
+int.to.str$ -- 59
+missing$ -- 510
+newline$ -- 188
+num.names$ -- 58
+pop$ -- 810
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 375
+stack$ -- 0
+substring$ -- 985
+swap$ -- 1325
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 137
+width$ -- 61
+write$ -- 582
+(There were 2 error messages)

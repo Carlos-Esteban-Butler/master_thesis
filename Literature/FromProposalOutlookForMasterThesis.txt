@@ -1,0 +1,35 @@
+There are three main mechanisms responsible for the 
+x-ray emission, each with different characteristics 
+on the spectrum \citep{riley2021warm, 
+giulietti1998x}. The first is free-free emission, 
+originating from scattering of free electrons with 
+ions in the plasma. This generates Bremsstrahlung and 
+gives a smooth emission spectrum with intensities 
+decreasing for increasing photon frequency. As this 
+emission depends on average ionization, it is 
+strongest for high Z materials. The second is 
+recombination, in which free electrons recombine with 
+ions and radiate a photon. This also results in a 
+continuous spectrum with a minimum photon energy 
+called the recombination edge. These edges also 
+result in jumps in the spectrum corresponding to 
+recombination stages. The third is line emission, 
+occurring for transitions of bound electrons between 
+states. This is the strongest source of x-ray 
+radiation, but is also discrete. In the experiment, 
+different backlighter materials will be tested at 
+varying laser energies, including teflon (PTFE), 
+gold, and four rare earth elements, samarium, 
+gadolinium, terbium, and dysprosium. In addition, 
+aluminum will be used to calibrate the energies of 
+the spectrometers using the He$\alpha$ emission line. 
+To note is that for absorption spectroscopy, a 
+quasi-continuous 
+backlighter spectrum is preferred, as it makes the 
+source spectrum easier correct for when determining 
+the absorption coefficient. But this brings with it 
+the disadvantage of comparatively low intensities, 
+hence the high-Z elements will be tested, which have 
+high numbers of line emissions from ion transitions 
+in the \si{\kilo\electronvolt} range 
+\citep{riley2021warm}. 

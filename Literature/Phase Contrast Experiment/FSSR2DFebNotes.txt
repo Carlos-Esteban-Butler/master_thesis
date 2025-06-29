@@ -1,0 +1,6 @@
+Detector angle resulting from calculation makes no sense (-80 degrees), rays don't even hit the detector.
+Angle of 10 degrees looks surprisingly good. Only question is if we get a Bildverzerrung out of it.
+
+FSSR effectively works as a pinhole, bc of the filtering for wavelength --> less interference between each image. 
+
+Taking perpendicular (0 degrees) is best. Then avoids aberrations

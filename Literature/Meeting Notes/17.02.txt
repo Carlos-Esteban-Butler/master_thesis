@@ -1,0 +1,7 @@
+Need to find newport mount step file
+Get Skizze from Philipp. Any details/problems can be discussed with Paul
+Figure out math for detector angle.
+Figure out how newport mount works.
+Ask Paul about how the crystal usually comes (in metal box or not). Also need to know where linear stage 2 is from
+If have time can also finish up ADP detail stuff. 
+Linear stage 1? Forgot which model its supposed to be. Maybe ask Paul about it.

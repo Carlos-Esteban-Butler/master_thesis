@@ -1,0 +1,10 @@
+Kompromiss zwischen energy range und resolution beim ADP?
+
+Begründung, warum ADP statt anderer Kristalle genommen?
+Erfüllt gewünschte Parameter, war eher so, dass der best passende Kristall fürs Experiment gesucht wurde. 
+
+-----------------------------------------------------------------------------------------
+
+Look at results of simulations
+
+Set up latex on vscode, apply template.

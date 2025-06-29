@@ -1,0 +1,67 @@
+Introduction:
+
+Experimentstationen: MIC (Matter in extreme conditions) in Amerika, HIBEF in Hamburg
+
+Could also mention other diagnostic methods they used in other experiments. Say generally and keep short. In principle extend the sentences I already put in
+
+Philipp is sending me introduction from Paul for paper that shows other experiments with WDM and x-rays. Can look in there for examples of other experiment on WDM
+
+New section called XAFS:
+
+Describe XAFS in more details
+
+Put the example here
+
+Fundamentals:
+
+Keep name of section like it is in proposal
+
+Main problem is that no optics, so everything must be in one object. Basically seperate the chapter into flat and bent. Then von hamos first
+, then FSSR at extension of von hamos
+
+Maybe can use example to combine with story, as in started with flat then developed more to use bent and so on.
+
+Keep the emission part in the results part
+
+Spectrometer Design:
+
+relate the considerations to the XAFS example spectrum
+
+KAP design was not part of the work, but for completeness is shown, since is relevant for the results
+
+Move specs to after the spectrometer sections, where the specs are shown in relation to each other. Allows a comparison between all of them
+
+Should mention in beginning of section that the specs are only at the end
+
+Definitely move mechanical design to experimental setup
+
+For the simulations and calculations should at least approximately describe
+
+Experimental setup:
+
+Start with general overview of setup
+
+Then go into each part of the setup, starting with the spectrometers
+
+In the spectrometer part, maybe less detail and put extra pictures in appendix
+
+Put alignment procedures in appendix as well
+
+Data analysis and results:
+
+Should state what each quantity should say about the spectrometers
+
+Important to say how the workflow of the code. How do I come from raw images to the different spectra. Just the methods, not details
+
+describe the plasma emissions along with some example spectra
+
+section with source spectra at beginning. Then can later introduce spectra with Alu and say was processed the same way
+
+Can keep general performance in end
+
+
+
+Discuss with Paul what the main takeaway from thesis should be. Make it more streamlined
+
+Update the outline and send the philipp. Keep table of contents structure
+

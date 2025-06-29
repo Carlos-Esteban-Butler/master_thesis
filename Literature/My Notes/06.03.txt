@@ -1,0 +1,42 @@
+--Filter from other side of camera plate.
+
+--window of snout as tall as crystal and width with 5 mm Spielraum around meridonial focus point.
+
+--pin built into blast plate. Blast plate also needs ausfraesung. 
+
+--Ausfraesung for camera so that only one Freiheitsgrad for lin stage.
+
+--Move linstage to camera
+
+--Blast plate senkrecht auf Main plate rand.
+
+--Point for FSSR
+
+----------------------------------------------------------------------------
+ADP
+
+--Front plate to mount pointer. Could be an extension of the vertex of the central walls. 
+
+--Put plate to seperate beam where filter currently is. Seperate this seperator from the camera plate. 
+
+--Can design the chip seperator to look like sketch in notebook. Combine filter and seperator. Both on tcc side of camera plate. 
+
+Extend Ausfräsung for crystal so that there is 1mm Spielraum in all directions. 
+
+--------------------------------------------------------------------------------
+Put both spectrometers in chamber. 
+
+Pointer is post holder + post. (TR_M and PH150_M from Thorlabs)
+
+--------------------------------------------------------------------------------
+Deckel for snout?
+
+Too much Drehmoment on Camera linstage?
+
+Camera linstage okay?
+
+Hole in Blast plate? Just build a placeholder without pin?
+
+Need to realign pin
+
+Pointer wouldn't fit in blast plate hole

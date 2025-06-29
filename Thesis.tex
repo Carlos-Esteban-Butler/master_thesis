@@ -1,0 +1,183 @@
+\documentclass[
+	main=english,
+	ruledheaders=section,%Ebene bis zu der die Überschriften mit Linien abgetrennt werden
+	class=book,% Basisdokumentenklasse
+	thesis={type=Master Thesis},% Dokumententyp Thesis
+	accentcolor=9c,% Auswahl der Akzentfarbe
+	custommargins=false, %=true Ränder werden mithilfe von typearea automatisch berechnet (für jede Schriftgröße anders oder so)
+	marginpar=false,% Kopfzeile und Fußzeile erstrecken sich nicht über die Randnotizspalte
+	BCOR=5mm,%Bindekorrektur
+	DIV=10, %gegen Whitespace
+	twoside,
+	parskip=half-,%Absatzkennzeichnung durch Abstand
+	fontsize=11pt,%Basisschriftgröße laut Corporate Design ist mit 9pt häufig zu klein
+	%	logofile=example-image, %Falls die Logo Dateien nicht vorliegen
+]{tudapub}
+% Englische Sprache 
+\usepackage[english]{babel}
+% Pakete mit Mathesymbolen und zur Beseitigung von Schwächen der Mathe-Umgebung
+\usepackage{latexsym,exscale,stmaryrd,amsmath}
+% Farbe
+\usepackage{color}
+
+%Bibliography and citation
+\usepackage[numbers,sort&compress,square]{natbib}
+\bibliographystyle{BibtexStyle}
+%\bibliographystyle{alpha}
+
+\usepackage{url}
+
+% Für Einheiten
+\usepackage[per-mode=symbol, separate-uncertainty=true]{siunitx}
+\sisetup{output-decimal-marker={.},list-final-separator={\text{ and }},list-pair-separator={\text{ and }},list-separator={, },list-units=single}
+\sisetup{range-phrase={\text{ to }},range-units=brackets, list-units=brackets}
+\sisetup{print-zero-exponent=false, print-unity-mantissa=false}
+\sisetup{detect-all}
+%\sisetup{scientific-notation = engineering}
+
+
+% Für Captions / Bildunterschriften - keine Einrückung in der zweiten Zeile mehr
+\setcapindent{0pt}
+
+%flush figures
+\usepackage{placeins}
+\usepackage{float}
+
+% Zur Graphikausgabe
+%Beipiel: 
+%\includegraphics[width=\textwidth]{grafik.png}
+
+% Text umfließt Graphiken und Tabellen
+% Beispiel:
+% \begin{wrapfigure}[Zeilenanzahl]{"l" oder "r"}{breite}
+%   \centering
+%   \includegraphics[width=...]{grafik}
+%   \caption{Beschriftung} 
+%   \label{fig:grafik}
+% \end{wrapfigure}
+\usepackage{wrapfig}
+
+
+
+
+%---------------------------------------------------------------------
+% stuff I added myself
+% \usepackage{cite} % so that multiple ref in a cite works
+\usepackage{float}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage[export]{adjustbox}
+\usepackage[font={small}]{caption}
+\usepackage{hyperref}
+\usepackage{gensymb}
+\usepackage{boldline}
+\usepackage[titletoc]{appendix}
+\usepackage{upgreek}
+
+\usepackage[nottoc]{tocbibind} %Includes "References" in the table of contents
+
+% and some commands I added
+\newcommand{\dofigure}[4]{
+	\begin{figure}
+		\centering
+		\includegraphics[width = #1\textwidth]{Diagrams/#2}
+		\caption{#3}
+		\label{#4}
+	\end{figure}
+}
+
+\newcommand{\angstrom}{\textup{\AA}}
+\newcommand{\eV}[1]{
+	\SI{#1}{\electronvolt}
+}
+
+
+
+%%%%%%%%%%%%%%%%%%%
+%Paketvorschläge Tabellen
+%%%%%%%%%%%%%%%%%%%
+%\usepackage{array}     % Basispaket für Tabellenkonfiguration, wird von den 
+%%folgenden automatisch geladen
+\usepackage{tabularx}   % Tabellen, die sich automatisch der Breite anpassen
+%\usepackage{longtable} % Mehrseitige Tabellen
+%\usepackage{xltabular} % Mehrseitige Tabellen mit anpassbarer Breite
+\usepackage{booktabs}   % Verbesserte Möglichkeiten für Tabellenlayout über 
+%horizontale Linien
+
+%%%%%%%%%%%%%%%%%%%
+%Paketvorschläge Mathematik
+%%%%%%%%%%%%%%%%%%%
+\usepackage{mathtools} % erweiterte Fassung von amsmath
+\usepackage{amssymb}   % erweiterter Zeichensatz
+\usepackage{makecell}
+\usepackage{stackengine}\setstackEOL{\cr} %EOL is abbreviation for "end of line."
+
+%Formatierungen für Beispiele in diesem Dokument. Im Allgemeinen nicht 
+%notwendig!
+\let\file\texttt
+\let\code\texttt
+\let\tbs\textbackslash
+\let\pck\textsf
+\let\cls\textsf
+
+\usepackage{pifont}% Zapf-Dingbats Symbole
+\newcommand*{\FeatureTrue}{\ding{52}}
+\newcommand*{\FeatureFalse}{\ding{56}}
+
+\begin{document}
+	
+	\Metadata{
+		title=Soft X-Ray Spectrometers for Absorption Spectroscopy of Aluminum in Laser Driven Backlighter Experiments,
+		author=Carlos Butler
+	}
+	
+	\title{Soft X-Ray Spectrometers for Absorption Spectroscopy of Aluminum in Laser Driven Backlighter Experiments}
+	\subtitle{Spektrometer für weiche 
+	Röntgenstrahlung aus 
+	laser-getriebenen Quellen zur Absorptionsspektroskopie von Aluminium}
+	\author[C. Butler]{Carlos Esteban Butler}%optionales Argument ist die Signatur,
+	\birthplace{Florida, USA}%Geburtsort, bei Dissertationen zwingend notwendig
+	\reviewer{Prof. Dr. Vincent 
+	Bagnoud \and Philipp Hesselbach, M.Sc.}%Gutachter
+	\titlegraphic{\includegraphics[width=\width]{Diagrams/Title.jpg}}
+	
+	%Diese Felder werden untereinander auf der Titelseite platziert.
+	%\department ist eine notwendige Angabe, siehe auch dem Abschnitt 
+	%`Abweichung von den Vorgaben für die Titelseite'
+	\department{phys} % Das Kürzel wird automatisch ersetzt und als Studienfach 
+	%gewählt, siehe Liste der Kürzel im Dokument.
+	\institute{Institute of Nuclear Physics}
+	\group{Working Group Bagnoud}
+	
+	\date{January 16, 2024}
+	\examdate{January 16, 2024}
+	\tuprints{license=This document is published under the license CC BY-NC 4.0 International \newline\url{creativecommons.org/licenses/by-nc/4.0/},
+	urn=urn:nbn:de:tuda-tuprints-275311,
+	printid=id/eprint/27531}
+
+	
+	% \dedication{Für alle, die \TeX{} nutzen.}
+	
+	\maketitle
+	
+	\affidavit
+	\include{Chapters/Acknowledgments}
+	
+	\tableofcontents
+	
+	\include{Chapters/Introduction}
+	\include{Chapters/XAFS}
+	\include{Chapters/Theory}
+	\include{Chapters/DesignConsiderations}
+	\include{Chapters/ExperimentalSetup}
+	\include{Chapters/DataAnalysis}
+	\include{Chapters/ResultsAndDiscussion}
+	\include{Chapters/Outlook}
+	
+	\newpage
+	\bibliography{ThesisBib}
+
+	\include{Chapters/Appendix}
+	
+\end{document}

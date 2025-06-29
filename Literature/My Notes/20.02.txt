@@ -1,0 +1,3 @@
+Redo FSSR optical path calculations and input in inventor
+Start building basic structure of FSSR (can use rotation stage that close enough)
+Maybe look at detector angle calculations
